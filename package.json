@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-icons-scrapper",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.23.0"
+  }
+}
