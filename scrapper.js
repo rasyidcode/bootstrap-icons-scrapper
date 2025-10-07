@@ -30,6 +30,6 @@ fs.writeFile("bi-icons.json", iconsJsonStr, (err) => {
   if (err) {
     console.error("Errror writing file: ", err);
   } else {
-    console.log("JSON data saved to output.json");
+    console.log("JSON data saved to bi-icons.json");
   }
 });
