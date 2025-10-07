@@ -26,10 +26,10 @@ await browser.close();
 
 const iconsJsonStr = JSON.stringify(iconList, null, 2);
 
-fs.writeFile("bi-icons.json", iconsJsonStr, (err) => {
+fs.writeFile("output.json", iconsJsonStr, (err) => {
   if (err) {
     console.error("Errror writing file: ", err);
   } else {
-    console.log("JSON data saved to bi-icons.json");
+    console.log("JSON data saved to output.json");
   }
 });

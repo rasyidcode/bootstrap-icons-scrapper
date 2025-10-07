@@ -1,0 +1,8314 @@
+[
+  {
+    "id": "bi-1",
+    "name": "0-circle"
+  },
+  {
+    "id": "bi-2",
+    "name": "0-circle-fill"
+  },
+  {
+    "id": "bi-3",
+    "name": "0-square"
+  },
+  {
+    "id": "bi-4",
+    "name": "0-square-fill"
+  },
+  {
+    "id": "bi-5",
+    "name": "1-circle"
+  },
+  {
+    "id": "bi-6",
+    "name": "1-circle-fill"
+  },
+  {
+    "id": "bi-7",
+    "name": "1-square"
+  },
+  {
+    "id": "bi-8",
+    "name": "1-square-fill"
+  },
+  {
+    "id": "bi-9",
+    "name": "123"
+  },
+  {
+    "id": "bi-10",
+    "name": "2-circle"
+  },
+  {
+    "id": "bi-11",
+    "name": "2-circle-fill"
+  },
+  {
+    "id": "bi-12",
+    "name": "2-square"
+  },
+  {
+    "id": "bi-13",
+    "name": "2-square-fill"
+  },
+  {
+    "id": "bi-14",
+    "name": "3-circle"
+  },
+  {
+    "id": "bi-15",
+    "name": "3-circle-fill"
+  },
+  {
+    "id": "bi-16",
+    "name": "3-square"
+  },
+  {
+    "id": "bi-17",
+    "name": "3-square-fill"
+  },
+  {
+    "id": "bi-18",
+    "name": "4-circle"
+  },
+  {
+    "id": "bi-19",
+    "name": "4-circle-fill"
+  },
+  {
+    "id": "bi-20",
+    "name": "4-square"
+  },
+  {
+    "id": "bi-21",
+    "name": "4-square-fill"
+  },
+  {
+    "id": "bi-22",
+    "name": "5-circle"
+  },
+  {
+    "id": "bi-23",
+    "name": "5-circle-fill"
+  },
+  {
+    "id": "bi-24",
+    "name": "5-square"
+  },
+  {
+    "id": "bi-25",
+    "name": "5-square-fill"
+  },
+  {
+    "id": "bi-26",
+    "name": "6-circle"
+  },
+  {
+    "id": "bi-27",
+    "name": "6-circle-fill"
+  },
+  {
+    "id": "bi-28",
+    "name": "6-square"
+  },
+  {
+    "id": "bi-29",
+    "name": "6-square-fill"
+  },
+  {
+    "id": "bi-30",
+    "name": "7-circle"
+  },
+  {
+    "id": "bi-31",
+    "name": "7-circle-fill"
+  },
+  {
+    "id": "bi-32",
+    "name": "7-square"
+  },
+  {
+    "id": "bi-33",
+    "name": "7-square-fill"
+  },
+  {
+    "id": "bi-34",
+    "name": "8-circle"
+  },
+  {
+    "id": "bi-35",
+    "name": "8-circle-fill"
+  },
+  {
+    "id": "bi-36",
+    "name": "8-square"
+  },
+  {
+    "id": "bi-37",
+    "name": "8-square-fill"
+  },
+  {
+    "id": "bi-38",
+    "name": "9-circle"
+  },
+  {
+    "id": "bi-39",
+    "name": "9-circle-fill"
+  },
+  {
+    "id": "bi-40",
+    "name": "9-square"
+  },
+  {
+    "id": "bi-41",
+    "name": "9-square-fill"
+  },
+  {
+    "id": "bi-42",
+    "name": "activity"
+  },
+  {
+    "id": "bi-43",
+    "name": "airplane"
+  },
+  {
+    "id": "bi-44",
+    "name": "airplane-engines"
+  },
+  {
+    "id": "bi-45",
+    "name": "airplane-engines-fill"
+  },
+  {
+    "id": "bi-46",
+    "name": "airplane-fill"
+  },
+  {
+    "id": "bi-47",
+    "name": "alarm"
+  },
+  {
+    "id": "bi-48",
+    "name": "alarm-fill"
+  },
+  {
+    "id": "bi-49",
+    "name": "alexa"
+  },
+  {
+    "id": "bi-50",
+    "name": "align-bottom"
+  },
+  {
+    "id": "bi-51",
+    "name": "align-center"
+  },
+  {
+    "id": "bi-52",
+    "name": "align-end"
+  },
+  {
+    "id": "bi-53",
+    "name": "align-middle"
+  },
+  {
+    "id": "bi-54",
+    "name": "align-start"
+  },
+  {
+    "id": "bi-55",
+    "name": "align-top"
+  },
+  {
+    "id": "bi-56",
+    "name": "alipay"
+  },
+  {
+    "id": "bi-57",
+    "name": "alphabet"
+  },
+  {
+    "id": "bi-58",
+    "name": "alphabet-uppercase"
+  },
+  {
+    "id": "bi-59",
+    "name": "alt"
+  },
+  {
+    "id": "bi-60",
+    "name": "amazon"
+  },
+  {
+    "id": "bi-61",
+    "name": "amd"
+  },
+  {
+    "id": "bi-62",
+    "name": "android"
+  },
+  {
+    "id": "bi-63",
+    "name": "android2"
+  },
+  {
+    "id": "bi-64",
+    "name": "anthropic"
+  },
+  {
+    "id": "bi-65",
+    "name": "app"
+  },
+  {
+    "id": "bi-66",
+    "name": "app-indicator"
+  },
+  {
+    "id": "bi-67",
+    "name": "apple"
+  },
+  {
+    "id": "bi-68",
+    "name": "apple-music"
+  },
+  {
+    "id": "bi-69",
+    "name": "archive"
+  },
+  {
+    "id": "bi-70",
+    "name": "archive-fill"
+  },
+  {
+    "id": "bi-71",
+    "name": "arrow-90deg-down"
+  },
+  {
+    "id": "bi-72",
+    "name": "arrow-90deg-left"
+  },
+  {
+    "id": "bi-73",
+    "name": "arrow-90deg-right"
+  },
+  {
+    "id": "bi-74",
+    "name": "arrow-90deg-up"
+  },
+  {
+    "id": "bi-75",
+    "name": "arrow-bar-down"
+  },
+  {
+    "id": "bi-76",
+    "name": "arrow-bar-left"
+  },
+  {
+    "id": "bi-77",
+    "name": "arrow-bar-right"
+  },
+  {
+    "id": "bi-78",
+    "name": "arrow-bar-up"
+  },
+  {
+    "id": "bi-79",
+    "name": "arrow-clockwise"
+  },
+  {
+    "id": "bi-80",
+    "name": "arrow-counterclockwise"
+  },
+  {
+    "id": "bi-81",
+    "name": "arrow-down"
+  },
+  {
+    "id": "bi-82",
+    "name": "arrow-down-circle"
+  },
+  {
+    "id": "bi-83",
+    "name": "arrow-down-circle-fill"
+  },
+  {
+    "id": "bi-84",
+    "name": "arrow-down-left-circle"
+  },
+  {
+    "id": "bi-85",
+    "name": "arrow-down-left-circle-fill"
+  },
+  {
+    "id": "bi-86",
+    "name": "arrow-down-left-square"
+  },
+  {
+    "id": "bi-87",
+    "name": "arrow-down-left-square-fill"
+  },
+  {
+    "id": "bi-88",
+    "name": "arrow-down-right-circle"
+  },
+  {
+    "id": "bi-89",
+    "name": "arrow-down-right-circle-fill"
+  },
+  {
+    "id": "bi-90",
+    "name": "arrow-down-right-square"
+  },
+  {
+    "id": "bi-91",
+    "name": "arrow-down-right-square-fill"
+  },
+  {
+    "id": "bi-92",
+    "name": "arrow-down-square"
+  },
+  {
+    "id": "bi-93",
+    "name": "arrow-down-square-fill"
+  },
+  {
+    "id": "bi-94",
+    "name": "arrow-down-left"
+  },
+  {
+    "id": "bi-95",
+    "name": "arrow-down-right"
+  },
+  {
+    "id": "bi-96",
+    "name": "arrow-down-short"
+  },
+  {
+    "id": "bi-97",
+    "name": "arrow-down-up"
+  },
+  {
+    "id": "bi-98",
+    "name": "arrow-left"
+  },
+  {
+    "id": "bi-99",
+    "name": "arrow-left-circle"
+  },
+  {
+    "id": "bi-100",
+    "name": "arrow-left-circle-fill"
+  },
+  {
+    "id": "bi-101",
+    "name": "arrow-left-square"
+  },
+  {
+    "id": "bi-102",
+    "name": "arrow-left-square-fill"
+  },
+  {
+    "id": "bi-103",
+    "name": "arrow-left-right"
+  },
+  {
+    "id": "bi-104",
+    "name": "arrow-left-short"
+  },
+  {
+    "id": "bi-105",
+    "name": "arrow-repeat"
+  },
+  {
+    "id": "bi-106",
+    "name": "arrow-return-left"
+  },
+  {
+    "id": "bi-107",
+    "name": "arrow-return-right"
+  },
+  {
+    "id": "bi-108",
+    "name": "arrow-right"
+  },
+  {
+    "id": "bi-109",
+    "name": "arrow-right-circle"
+  },
+  {
+    "id": "bi-110",
+    "name": "arrow-right-circle-fill"
+  },
+  {
+    "id": "bi-111",
+    "name": "arrow-right-square"
+  },
+  {
+    "id": "bi-112",
+    "name": "arrow-right-square-fill"
+  },
+  {
+    "id": "bi-113",
+    "name": "arrow-right-short"
+  },
+  {
+    "id": "bi-114",
+    "name": "arrow-through-heart"
+  },
+  {
+    "id": "bi-115",
+    "name": "arrow-through-heart-fill"
+  },
+  {
+    "id": "bi-116",
+    "name": "arrow-up"
+  },
+  {
+    "id": "bi-117",
+    "name": "arrow-up-circle"
+  },
+  {
+    "id": "bi-118",
+    "name": "arrow-up-circle-fill"
+  },
+  {
+    "id": "bi-119",
+    "name": "arrow-up-left-circle"
+  },
+  {
+    "id": "bi-120",
+    "name": "arrow-up-left-circle-fill"
+  },
+  {
+    "id": "bi-121",
+    "name": "arrow-up-left-square"
+  },
+  {
+    "id": "bi-122",
+    "name": "arrow-up-left-square-fill"
+  },
+  {
+    "id": "bi-123",
+    "name": "arrow-up-right-circle"
+  },
+  {
+    "id": "bi-124",
+    "name": "arrow-up-right-circle-fill"
+  },
+  {
+    "id": "bi-125",
+    "name": "arrow-up-right-square"
+  },
+  {
+    "id": "bi-126",
+    "name": "arrow-up-right-square-fill"
+  },
+  {
+    "id": "bi-127",
+    "name": "arrow-up-square"
+  },
+  {
+    "id": "bi-128",
+    "name": "arrow-up-square-fill"
+  },
+  {
+    "id": "bi-129",
+    "name": "arrow-up-left"
+  },
+  {
+    "id": "bi-130",
+    "name": "arrow-up-right"
+  },
+  {
+    "id": "bi-131",
+    "name": "arrow-up-short"
+  },
+  {
+    "id": "bi-132",
+    "name": "arrows"
+  },
+  {
+    "id": "bi-133",
+    "name": "arrows-angle-contract"
+  },
+  {
+    "id": "bi-134",
+    "name": "arrows-angle-expand"
+  },
+  {
+    "id": "bi-135",
+    "name": "arrows-collapse"
+  },
+  {
+    "id": "bi-136",
+    "name": "arrows-collapse-vertical"
+  },
+  {
+    "id": "bi-137",
+    "name": "arrows-expand"
+  },
+  {
+    "id": "bi-138",
+    "name": "arrows-expand-vertical"
+  },
+  {
+    "id": "bi-139",
+    "name": "arrows-fullscreen"
+  },
+  {
+    "id": "bi-140",
+    "name": "arrows-move"
+  },
+  {
+    "id": "bi-141",
+    "name": "arrows-vertical"
+  },
+  {
+    "id": "bi-142",
+    "name": "aspect-ratio"
+  },
+  {
+    "id": "bi-143",
+    "name": "aspect-ratio-fill"
+  },
+  {
+    "id": "bi-144",
+    "name": "asterisk"
+  },
+  {
+    "id": "bi-145",
+    "name": "at"
+  },
+  {
+    "id": "bi-146",
+    "name": "award"
+  },
+  {
+    "id": "bi-147",
+    "name": "award-fill"
+  },
+  {
+    "id": "bi-148",
+    "name": "back"
+  },
+  {
+    "id": "bi-149",
+    "name": "backpack"
+  },
+  {
+    "id": "bi-150",
+    "name": "backpack-fill"
+  },
+  {
+    "id": "bi-151",
+    "name": "backpack2"
+  },
+  {
+    "id": "bi-152",
+    "name": "backpack2-fill"
+  },
+  {
+    "id": "bi-153",
+    "name": "backpack3"
+  },
+  {
+    "id": "bi-154",
+    "name": "backpack3-fill"
+  },
+  {
+    "id": "bi-155",
+    "name": "backpack4"
+  },
+  {
+    "id": "bi-156",
+    "name": "backpack4-fill"
+  },
+  {
+    "id": "bi-157",
+    "name": "backspace"
+  },
+  {
+    "id": "bi-158",
+    "name": "backspace-fill"
+  },
+  {
+    "id": "bi-159",
+    "name": "backspace-reverse"
+  },
+  {
+    "id": "bi-160",
+    "name": "backspace-reverse-fill"
+  },
+  {
+    "id": "bi-161",
+    "name": "badge-3d"
+  },
+  {
+    "id": "bi-162",
+    "name": "badge-3d-fill"
+  },
+  {
+    "id": "bi-163",
+    "name": "badge-4k"
+  },
+  {
+    "id": "bi-164",
+    "name": "badge-4k-fill"
+  },
+  {
+    "id": "bi-165",
+    "name": "badge-8k"
+  },
+  {
+    "id": "bi-166",
+    "name": "badge-8k-fill"
+  },
+  {
+    "id": "bi-167",
+    "name": "badge-ad"
+  },
+  {
+    "id": "bi-168",
+    "name": "badge-ad-fill"
+  },
+  {
+    "id": "bi-169",
+    "name": "badge-ar"
+  },
+  {
+    "id": "bi-170",
+    "name": "badge-ar-fill"
+  },
+  {
+    "id": "bi-171",
+    "name": "badge-cc"
+  },
+  {
+    "id": "bi-172",
+    "name": "badge-cc-fill"
+  },
+  {
+    "id": "bi-173",
+    "name": "badge-hd"
+  },
+  {
+    "id": "bi-174",
+    "name": "badge-hd-fill"
+  },
+  {
+    "id": "bi-175",
+    "name": "badge-sd"
+  },
+  {
+    "id": "bi-176",
+    "name": "badge-sd-fill"
+  },
+  {
+    "id": "bi-177",
+    "name": "badge-tm"
+  },
+  {
+    "id": "bi-178",
+    "name": "badge-tm-fill"
+  },
+  {
+    "id": "bi-179",
+    "name": "badge-vo"
+  },
+  {
+    "id": "bi-180",
+    "name": "badge-vo-fill"
+  },
+  {
+    "id": "bi-181",
+    "name": "badge-vr"
+  },
+  {
+    "id": "bi-182",
+    "name": "badge-vr-fill"
+  },
+  {
+    "id": "bi-183",
+    "name": "badge-wc"
+  },
+  {
+    "id": "bi-184",
+    "name": "badge-wc-fill"
+  },
+  {
+    "id": "bi-185",
+    "name": "bag"
+  },
+  {
+    "id": "bi-186",
+    "name": "bag-check"
+  },
+  {
+    "id": "bi-187",
+    "name": "bag-check-fill"
+  },
+  {
+    "id": "bi-188",
+    "name": "bag-dash"
+  },
+  {
+    "id": "bi-189",
+    "name": "bag-dash-fill"
+  },
+  {
+    "id": "bi-190",
+    "name": "bag-fill"
+  },
+  {
+    "id": "bi-191",
+    "name": "bag-heart"
+  },
+  {
+    "id": "bi-192",
+    "name": "bag-heart-fill"
+  },
+  {
+    "id": "bi-193",
+    "name": "bag-plus"
+  },
+  {
+    "id": "bi-194",
+    "name": "bag-plus-fill"
+  },
+  {
+    "id": "bi-195",
+    "name": "bag-x"
+  },
+  {
+    "id": "bi-196",
+    "name": "bag-x-fill"
+  },
+  {
+    "id": "bi-197",
+    "name": "balloon"
+  },
+  {
+    "id": "bi-198",
+    "name": "balloon-fill"
+  },
+  {
+    "id": "bi-199",
+    "name": "balloon-heart"
+  },
+  {
+    "id": "bi-200",
+    "name": "balloon-heart-fill"
+  },
+  {
+    "id": "bi-201",
+    "name": "ban"
+  },
+  {
+    "id": "bi-202",
+    "name": "ban-fill"
+  },
+  {
+    "id": "bi-203",
+    "name": "bandaid"
+  },
+  {
+    "id": "bi-204",
+    "name": "bandaid-fill"
+  },
+  {
+    "id": "bi-205",
+    "name": "bank"
+  },
+  {
+    "id": "bi-206",
+    "name": "bank2"
+  },
+  {
+    "id": "bi-207",
+    "name": "bar-chart"
+  },
+  {
+    "id": "bi-208",
+    "name": "bar-chart-fill"
+  },
+  {
+    "id": "bi-209",
+    "name": "bar-chart-line"
+  },
+  {
+    "id": "bi-210",
+    "name": "bar-chart-line-fill"
+  },
+  {
+    "id": "bi-211",
+    "name": "bar-chart-steps"
+  },
+  {
+    "id": "bi-212",
+    "name": "basket"
+  },
+  {
+    "id": "bi-213",
+    "name": "basket-fill"
+  },
+  {
+    "id": "bi-214",
+    "name": "basket2"
+  },
+  {
+    "id": "bi-215",
+    "name": "basket2-fill"
+  },
+  {
+    "id": "bi-216",
+    "name": "basket3"
+  },
+  {
+    "id": "bi-217",
+    "name": "basket3-fill"
+  },
+  {
+    "id": "bi-218",
+    "name": "battery"
+  },
+  {
+    "id": "bi-219",
+    "name": "battery-charging"
+  },
+  {
+    "id": "bi-220",
+    "name": "battery-full"
+  },
+  {
+    "id": "bi-221",
+    "name": "battery-half"
+  },
+  {
+    "id": "bi-222",
+    "name": "battery-low"
+  },
+  {
+    "id": "bi-223",
+    "name": "beaker"
+  },
+  {
+    "id": "bi-224",
+    "name": "beaker-fill"
+  },
+  {
+    "id": "bi-225",
+    "name": "behance"
+  },
+  {
+    "id": "bi-226",
+    "name": "bell"
+  },
+  {
+    "id": "bi-227",
+    "name": "bell-fill"
+  },
+  {
+    "id": "bi-228",
+    "name": "bell-slash"
+  },
+  {
+    "id": "bi-229",
+    "name": "bell-slash-fill"
+  },
+  {
+    "id": "bi-230",
+    "name": "bezier"
+  },
+  {
+    "id": "bi-231",
+    "name": "bezier2"
+  },
+  {
+    "id": "bi-232",
+    "name": "bicycle"
+  },
+  {
+    "id": "bi-233",
+    "name": "bing"
+  },
+  {
+    "id": "bi-234",
+    "name": "binoculars"
+  },
+  {
+    "id": "bi-235",
+    "name": "binoculars-fill"
+  },
+  {
+    "id": "bi-236",
+    "name": "blockquote-left"
+  },
+  {
+    "id": "bi-237",
+    "name": "blockquote-right"
+  },
+  {
+    "id": "bi-238",
+    "name": "bluesky"
+  },
+  {
+    "id": "bi-239",
+    "name": "bluetooth"
+  },
+  {
+    "id": "bi-240",
+    "name": "body-text"
+  },
+  {
+    "id": "bi-241",
+    "name": "book"
+  },
+  {
+    "id": "bi-242",
+    "name": "book-fill"
+  },
+  {
+    "id": "bi-243",
+    "name": "book-half"
+  },
+  {
+    "id": "bi-244",
+    "name": "bookmark"
+  },
+  {
+    "id": "bi-245",
+    "name": "bookmark-check"
+  },
+  {
+    "id": "bi-246",
+    "name": "bookmark-check-fill"
+  },
+  {
+    "id": "bi-247",
+    "name": "bookmark-dash"
+  },
+  {
+    "id": "bi-248",
+    "name": "bookmark-dash-fill"
+  },
+  {
+    "id": "bi-249",
+    "name": "bookmark-fill"
+  },
+  {
+    "id": "bi-250",
+    "name": "bookmark-heart"
+  },
+  {
+    "id": "bi-251",
+    "name": "bookmark-heart-fill"
+  },
+  {
+    "id": "bi-252",
+    "name": "bookmark-plus"
+  },
+  {
+    "id": "bi-253",
+    "name": "bookmark-plus-fill"
+  },
+  {
+    "id": "bi-254",
+    "name": "bookmark-star"
+  },
+  {
+    "id": "bi-255",
+    "name": "bookmark-star-fill"
+  },
+  {
+    "id": "bi-256",
+    "name": "bookmark-x"
+  },
+  {
+    "id": "bi-257",
+    "name": "bookmark-x-fill"
+  },
+  {
+    "id": "bi-258",
+    "name": "bookmarks"
+  },
+  {
+    "id": "bi-259",
+    "name": "bookmarks-fill"
+  },
+  {
+    "id": "bi-260",
+    "name": "bookshelf"
+  },
+  {
+    "id": "bi-261",
+    "name": "boombox"
+  },
+  {
+    "id": "bi-262",
+    "name": "boombox-fill"
+  },
+  {
+    "id": "bi-263",
+    "name": "bootstrap"
+  },
+  {
+    "id": "bi-264",
+    "name": "bootstrap-fill"
+  },
+  {
+    "id": "bi-265",
+    "name": "bootstrap-reboot"
+  },
+  {
+    "id": "bi-266",
+    "name": "border"
+  },
+  {
+    "id": "bi-267",
+    "name": "border-all"
+  },
+  {
+    "id": "bi-268",
+    "name": "border-bottom"
+  },
+  {
+    "id": "bi-269",
+    "name": "border-center"
+  },
+  {
+    "id": "bi-270",
+    "name": "border-inner"
+  },
+  {
+    "id": "bi-271",
+    "name": "border-left"
+  },
+  {
+    "id": "bi-272",
+    "name": "border-middle"
+  },
+  {
+    "id": "bi-273",
+    "name": "border-outer"
+  },
+  {
+    "id": "bi-274",
+    "name": "border-right"
+  },
+  {
+    "id": "bi-275",
+    "name": "border-style"
+  },
+  {
+    "id": "bi-276",
+    "name": "border-top"
+  },
+  {
+    "id": "bi-277",
+    "name": "border-width"
+  },
+  {
+    "id": "bi-278",
+    "name": "bounding-box"
+  },
+  {
+    "id": "bi-279",
+    "name": "bounding-box-circles"
+  },
+  {
+    "id": "bi-280",
+    "name": "box"
+  },
+  {
+    "id": "bi-281",
+    "name": "box-arrow-down-left"
+  },
+  {
+    "id": "bi-282",
+    "name": "box-arrow-down-right"
+  },
+  {
+    "id": "bi-283",
+    "name": "box-arrow-down"
+  },
+  {
+    "id": "bi-284",
+    "name": "box-arrow-in-down"
+  },
+  {
+    "id": "bi-285",
+    "name": "box-arrow-in-down-left"
+  },
+  {
+    "id": "bi-286",
+    "name": "box-arrow-in-down-right"
+  },
+  {
+    "id": "bi-287",
+    "name": "box-arrow-in-left"
+  },
+  {
+    "id": "bi-288",
+    "name": "box-arrow-in-right"
+  },
+  {
+    "id": "bi-289",
+    "name": "box-arrow-in-up"
+  },
+  {
+    "id": "bi-290",
+    "name": "box-arrow-in-up-left"
+  },
+  {
+    "id": "bi-291",
+    "name": "box-arrow-in-up-right"
+  },
+  {
+    "id": "bi-292",
+    "name": "box-arrow-left"
+  },
+  {
+    "id": "bi-293",
+    "name": "box-arrow-right"
+  },
+  {
+    "id": "bi-294",
+    "name": "box-arrow-up"
+  },
+  {
+    "id": "bi-295",
+    "name": "box-arrow-up-left"
+  },
+  {
+    "id": "bi-296",
+    "name": "box-arrow-up-right"
+  },
+  {
+    "id": "bi-297",
+    "name": "box-fill"
+  },
+  {
+    "id": "bi-298",
+    "name": "box-seam"
+  },
+  {
+    "id": "bi-299",
+    "name": "box-seam-fill"
+  },
+  {
+    "id": "bi-300",
+    "name": "box2"
+  },
+  {
+    "id": "bi-301",
+    "name": "box2-fill"
+  },
+  {
+    "id": "bi-302",
+    "name": "box2-heart"
+  },
+  {
+    "id": "bi-303",
+    "name": "box2-heart-fill"
+  },
+  {
+    "id": "bi-304",
+    "name": "boxes"
+  },
+  {
+    "id": "bi-305",
+    "name": "braces"
+  },
+  {
+    "id": "bi-306",
+    "name": "braces-asterisk"
+  },
+  {
+    "id": "bi-307",
+    "name": "bricks"
+  },
+  {
+    "id": "bi-308",
+    "name": "briefcase"
+  },
+  {
+    "id": "bi-309",
+    "name": "briefcase-fill"
+  },
+  {
+    "id": "bi-310",
+    "name": "brightness-alt-high"
+  },
+  {
+    "id": "bi-311",
+    "name": "brightness-alt-high-fill"
+  },
+  {
+    "id": "bi-312",
+    "name": "brightness-alt-low"
+  },
+  {
+    "id": "bi-313",
+    "name": "brightness-alt-low-fill"
+  },
+  {
+    "id": "bi-314",
+    "name": "brightness-high"
+  },
+  {
+    "id": "bi-315",
+    "name": "brightness-high-fill"
+  },
+  {
+    "id": "bi-316",
+    "name": "brightness-low"
+  },
+  {
+    "id": "bi-317",
+    "name": "brightness-low-fill"
+  },
+  {
+    "id": "bi-318",
+    "name": "brilliance"
+  },
+  {
+    "id": "bi-319",
+    "name": "broadcast"
+  },
+  {
+    "id": "bi-320",
+    "name": "broadcast-pin"
+  },
+  {
+    "id": "bi-321",
+    "name": "browser-chrome"
+  },
+  {
+    "id": "bi-322",
+    "name": "browser-edge"
+  },
+  {
+    "id": "bi-323",
+    "name": "browser-firefox"
+  },
+  {
+    "id": "bi-324",
+    "name": "browser-safari"
+  },
+  {
+    "id": "bi-325",
+    "name": "brush"
+  },
+  {
+    "id": "bi-326",
+    "name": "brush-fill"
+  },
+  {
+    "id": "bi-327",
+    "name": "bucket"
+  },
+  {
+    "id": "bi-328",
+    "name": "bucket-fill"
+  },
+  {
+    "id": "bi-329",
+    "name": "bug"
+  },
+  {
+    "id": "bi-330",
+    "name": "bug-fill"
+  },
+  {
+    "id": "bi-331",
+    "name": "building"
+  },
+  {
+    "id": "bi-332",
+    "name": "building-add"
+  },
+  {
+    "id": "bi-333",
+    "name": "building-check"
+  },
+  {
+    "id": "bi-334",
+    "name": "building-dash"
+  },
+  {
+    "id": "bi-335",
+    "name": "building-down"
+  },
+  {
+    "id": "bi-336",
+    "name": "building-exclamation"
+  },
+  {
+    "id": "bi-337",
+    "name": "building-fill"
+  },
+  {
+    "id": "bi-338",
+    "name": "building-fill-add"
+  },
+  {
+    "id": "bi-339",
+    "name": "building-fill-check"
+  },
+  {
+    "id": "bi-340",
+    "name": "building-fill-dash"
+  },
+  {
+    "id": "bi-341",
+    "name": "building-fill-down"
+  },
+  {
+    "id": "bi-342",
+    "name": "building-fill-exclamation"
+  },
+  {
+    "id": "bi-343",
+    "name": "building-fill-gear"
+  },
+  {
+    "id": "bi-344",
+    "name": "building-fill-lock"
+  },
+  {
+    "id": "bi-345",
+    "name": "building-fill-slash"
+  },
+  {
+    "id": "bi-346",
+    "name": "building-fill-up"
+  },
+  {
+    "id": "bi-347",
+    "name": "building-fill-x"
+  },
+  {
+    "id": "bi-348",
+    "name": "building-gear"
+  },
+  {
+    "id": "bi-349",
+    "name": "building-lock"
+  },
+  {
+    "id": "bi-350",
+    "name": "building-slash"
+  },
+  {
+    "id": "bi-351",
+    "name": "building-up"
+  },
+  {
+    "id": "bi-352",
+    "name": "building-x"
+  },
+  {
+    "id": "bi-353",
+    "name": "buildings"
+  },
+  {
+    "id": "bi-354",
+    "name": "buildings-fill"
+  },
+  {
+    "id": "bi-355",
+    "name": "bullseye"
+  },
+  {
+    "id": "bi-356",
+    "name": "bus-front"
+  },
+  {
+    "id": "bi-357",
+    "name": "bus-front-fill"
+  },
+  {
+    "id": "bi-358",
+    "name": "c-circle"
+  },
+  {
+    "id": "bi-359",
+    "name": "c-circle-fill"
+  },
+  {
+    "id": "bi-360",
+    "name": "c-square"
+  },
+  {
+    "id": "bi-361",
+    "name": "c-square-fill"
+  },
+  {
+    "id": "bi-362",
+    "name": "cake"
+  },
+  {
+    "id": "bi-363",
+    "name": "cake-fill"
+  },
+  {
+    "id": "bi-364",
+    "name": "cake2"
+  },
+  {
+    "id": "bi-365",
+    "name": "cake2-fill"
+  },
+  {
+    "id": "bi-366",
+    "name": "calculator"
+  },
+  {
+    "id": "bi-367",
+    "name": "calculator-fill"
+  },
+  {
+    "id": "bi-368",
+    "name": "calendar"
+  },
+  {
+    "id": "bi-369",
+    "name": "calendar-check"
+  },
+  {
+    "id": "bi-370",
+    "name": "calendar-check-fill"
+  },
+  {
+    "id": "bi-371",
+    "name": "calendar-date"
+  },
+  {
+    "id": "bi-372",
+    "name": "calendar-date-fill"
+  },
+  {
+    "id": "bi-373",
+    "name": "calendar-day"
+  },
+  {
+    "id": "bi-374",
+    "name": "calendar-day-fill"
+  },
+  {
+    "id": "bi-375",
+    "name": "calendar-event"
+  },
+  {
+    "id": "bi-376",
+    "name": "calendar-event-fill"
+  },
+  {
+    "id": "bi-377",
+    "name": "calendar-fill"
+  },
+  {
+    "id": "bi-378",
+    "name": "calendar-heart"
+  },
+  {
+    "id": "bi-379",
+    "name": "calendar-heart-fill"
+  },
+  {
+    "id": "bi-380",
+    "name": "calendar-minus"
+  },
+  {
+    "id": "bi-381",
+    "name": "calendar-minus-fill"
+  },
+  {
+    "id": "bi-382",
+    "name": "calendar-month"
+  },
+  {
+    "id": "bi-383",
+    "name": "calendar-month-fill"
+  },
+  {
+    "id": "bi-384",
+    "name": "calendar-plus"
+  },
+  {
+    "id": "bi-385",
+    "name": "calendar-plus-fill"
+  },
+  {
+    "id": "bi-386",
+    "name": "calendar-range"
+  },
+  {
+    "id": "bi-387",
+    "name": "calendar-range-fill"
+  },
+  {
+    "id": "bi-388",
+    "name": "calendar-week"
+  },
+  {
+    "id": "bi-389",
+    "name": "calendar-week-fill"
+  },
+  {
+    "id": "bi-390",
+    "name": "calendar-x"
+  },
+  {
+    "id": "bi-391",
+    "name": "calendar-x-fill"
+  },
+  {
+    "id": "bi-392",
+    "name": "calendar2"
+  },
+  {
+    "id": "bi-393",
+    "name": "calendar2-check"
+  },
+  {
+    "id": "bi-394",
+    "name": "calendar2-check-fill"
+  },
+  {
+    "id": "bi-395",
+    "name": "calendar2-date"
+  },
+  {
+    "id": "bi-396",
+    "name": "calendar2-date-fill"
+  },
+  {
+    "id": "bi-397",
+    "name": "calendar2-day"
+  },
+  {
+    "id": "bi-398",
+    "name": "calendar2-day-fill"
+  },
+  {
+    "id": "bi-399",
+    "name": "calendar2-event"
+  },
+  {
+    "id": "bi-400",
+    "name": "calendar2-event-fill"
+  },
+  {
+    "id": "bi-401",
+    "name": "calendar2-fill"
+  },
+  {
+    "id": "bi-402",
+    "name": "calendar2-heart"
+  },
+  {
+    "id": "bi-403",
+    "name": "calendar2-heart-fill"
+  },
+  {
+    "id": "bi-404",
+    "name": "calendar2-minus"
+  },
+  {
+    "id": "bi-405",
+    "name": "calendar2-minus-fill"
+  },
+  {
+    "id": "bi-406",
+    "name": "calendar2-month"
+  },
+  {
+    "id": "bi-407",
+    "name": "calendar2-month-fill"
+  },
+  {
+    "id": "bi-408",
+    "name": "calendar2-plus"
+  },
+  {
+    "id": "bi-409",
+    "name": "calendar2-plus-fill"
+  },
+  {
+    "id": "bi-410",
+    "name": "calendar2-range"
+  },
+  {
+    "id": "bi-411",
+    "name": "calendar2-range-fill"
+  },
+  {
+    "id": "bi-412",
+    "name": "calendar2-week"
+  },
+  {
+    "id": "bi-413",
+    "name": "calendar2-week-fill"
+  },
+  {
+    "id": "bi-414",
+    "name": "calendar2-x"
+  },
+  {
+    "id": "bi-415",
+    "name": "calendar2-x-fill"
+  },
+  {
+    "id": "bi-416",
+    "name": "calendar3"
+  },
+  {
+    "id": "bi-417",
+    "name": "calendar3-event"
+  },
+  {
+    "id": "bi-418",
+    "name": "calendar3-event-fill"
+  },
+  {
+    "id": "bi-419",
+    "name": "calendar3-fill"
+  },
+  {
+    "id": "bi-420",
+    "name": "calendar3-range"
+  },
+  {
+    "id": "bi-421",
+    "name": "calendar3-range-fill"
+  },
+  {
+    "id": "bi-422",
+    "name": "calendar3-week"
+  },
+  {
+    "id": "bi-423",
+    "name": "calendar3-week-fill"
+  },
+  {
+    "id": "bi-424",
+    "name": "calendar4"
+  },
+  {
+    "id": "bi-425",
+    "name": "calendar4-event"
+  },
+  {
+    "id": "bi-426",
+    "name": "calendar4-range"
+  },
+  {
+    "id": "bi-427",
+    "name": "calendar4-week"
+  },
+  {
+    "id": "bi-428",
+    "name": "camera"
+  },
+  {
+    "id": "bi-429",
+    "name": "camera2"
+  },
+  {
+    "id": "bi-430",
+    "name": "camera-fill"
+  },
+  {
+    "id": "bi-431",
+    "name": "camera-reels"
+  },
+  {
+    "id": "bi-432",
+    "name": "camera-reels-fill"
+  },
+  {
+    "id": "bi-433",
+    "name": "camera-video"
+  },
+  {
+    "id": "bi-434",
+    "name": "camera-video-fill"
+  },
+  {
+    "id": "bi-435",
+    "name": "camera-video-off"
+  },
+  {
+    "id": "bi-436",
+    "name": "camera-video-off-fill"
+  },
+  {
+    "id": "bi-437",
+    "name": "capslock"
+  },
+  {
+    "id": "bi-438",
+    "name": "capslock-fill"
+  },
+  {
+    "id": "bi-439",
+    "name": "capsule"
+  },
+  {
+    "id": "bi-440",
+    "name": "capsule-pill"
+  },
+  {
+    "id": "bi-441",
+    "name": "car-front"
+  },
+  {
+    "id": "bi-442",
+    "name": "car-front-fill"
+  },
+  {
+    "id": "bi-443",
+    "name": "card-checklist"
+  },
+  {
+    "id": "bi-444",
+    "name": "card-heading"
+  },
+  {
+    "id": "bi-445",
+    "name": "card-image"
+  },
+  {
+    "id": "bi-446",
+    "name": "card-list"
+  },
+  {
+    "id": "bi-447",
+    "name": "card-text"
+  },
+  {
+    "id": "bi-448",
+    "name": "caret-down"
+  },
+  {
+    "id": "bi-449",
+    "name": "caret-down-fill"
+  },
+  {
+    "id": "bi-450",
+    "name": "caret-down-square"
+  },
+  {
+    "id": "bi-451",
+    "name": "caret-down-square-fill"
+  },
+  {
+    "id": "bi-452",
+    "name": "caret-left"
+  },
+  {
+    "id": "bi-453",
+    "name": "caret-left-fill"
+  },
+  {
+    "id": "bi-454",
+    "name": "caret-left-square"
+  },
+  {
+    "id": "bi-455",
+    "name": "caret-left-square-fill"
+  },
+  {
+    "id": "bi-456",
+    "name": "caret-right"
+  },
+  {
+    "id": "bi-457",
+    "name": "caret-right-fill"
+  },
+  {
+    "id": "bi-458",
+    "name": "caret-right-square"
+  },
+  {
+    "id": "bi-459",
+    "name": "caret-right-square-fill"
+  },
+  {
+    "id": "bi-460",
+    "name": "caret-up"
+  },
+  {
+    "id": "bi-461",
+    "name": "caret-up-fill"
+  },
+  {
+    "id": "bi-462",
+    "name": "caret-up-square"
+  },
+  {
+    "id": "bi-463",
+    "name": "caret-up-square-fill"
+  },
+  {
+    "id": "bi-464",
+    "name": "cart"
+  },
+  {
+    "id": "bi-465",
+    "name": "cart-check"
+  },
+  {
+    "id": "bi-466",
+    "name": "cart-check-fill"
+  },
+  {
+    "id": "bi-467",
+    "name": "cart-dash"
+  },
+  {
+    "id": "bi-468",
+    "name": "cart-dash-fill"
+  },
+  {
+    "id": "bi-469",
+    "name": "cart-fill"
+  },
+  {
+    "id": "bi-470",
+    "name": "cart-plus"
+  },
+  {
+    "id": "bi-471",
+    "name": "cart-plus-fill"
+  },
+  {
+    "id": "bi-472",
+    "name": "cart-x"
+  },
+  {
+    "id": "bi-473",
+    "name": "cart-x-fill"
+  },
+  {
+    "id": "bi-474",
+    "name": "cart2"
+  },
+  {
+    "id": "bi-475",
+    "name": "cart3"
+  },
+  {
+    "id": "bi-476",
+    "name": "cart4"
+  },
+  {
+    "id": "bi-477",
+    "name": "cash"
+  },
+  {
+    "id": "bi-478",
+    "name": "cash-coin"
+  },
+  {
+    "id": "bi-479",
+    "name": "cash-stack"
+  },
+  {
+    "id": "bi-480",
+    "name": "cassette"
+  },
+  {
+    "id": "bi-481",
+    "name": "cassette-fill"
+  },
+  {
+    "id": "bi-482",
+    "name": "cast"
+  },
+  {
+    "id": "bi-483",
+    "name": "cc-circle"
+  },
+  {
+    "id": "bi-484",
+    "name": "cc-circle-fill"
+  },
+  {
+    "id": "bi-485",
+    "name": "cc-square"
+  },
+  {
+    "id": "bi-486",
+    "name": "cc-square-fill"
+  },
+  {
+    "id": "bi-487",
+    "name": "chat"
+  },
+  {
+    "id": "bi-488",
+    "name": "chat-dots"
+  },
+  {
+    "id": "bi-489",
+    "name": "chat-dots-fill"
+  },
+  {
+    "id": "bi-490",
+    "name": "chat-fill"
+  },
+  {
+    "id": "bi-491",
+    "name": "chat-heart"
+  },
+  {
+    "id": "bi-492",
+    "name": "chat-heart-fill"
+  },
+  {
+    "id": "bi-493",
+    "name": "chat-left"
+  },
+  {
+    "id": "bi-494",
+    "name": "chat-left-dots"
+  },
+  {
+    "id": "bi-495",
+    "name": "chat-left-dots-fill"
+  },
+  {
+    "id": "bi-496",
+    "name": "chat-left-fill"
+  },
+  {
+    "id": "bi-497",
+    "name": "chat-left-heart"
+  },
+  {
+    "id": "bi-498",
+    "name": "chat-left-heart-fill"
+  },
+  {
+    "id": "bi-499",
+    "name": "chat-left-quote"
+  },
+  {
+    "id": "bi-500",
+    "name": "chat-left-quote-fill"
+  },
+  {
+    "id": "bi-501",
+    "name": "chat-left-text"
+  },
+  {
+    "id": "bi-502",
+    "name": "chat-left-text-fill"
+  },
+  {
+    "id": "bi-503",
+    "name": "chat-quote"
+  },
+  {
+    "id": "bi-504",
+    "name": "chat-quote-fill"
+  },
+  {
+    "id": "bi-505",
+    "name": "chat-right"
+  },
+  {
+    "id": "bi-506",
+    "name": "chat-right-dots"
+  },
+  {
+    "id": "bi-507",
+    "name": "chat-right-dots-fill"
+  },
+  {
+    "id": "bi-508",
+    "name": "chat-right-fill"
+  },
+  {
+    "id": "bi-509",
+    "name": "chat-right-heart"
+  },
+  {
+    "id": "bi-510",
+    "name": "chat-right-heart-fill"
+  },
+  {
+    "id": "bi-511",
+    "name": "chat-right-quote"
+  },
+  {
+    "id": "bi-512",
+    "name": "chat-right-quote-fill"
+  },
+  {
+    "id": "bi-513",
+    "name": "chat-right-text"
+  },
+  {
+    "id": "bi-514",
+    "name": "chat-right-text-fill"
+  },
+  {
+    "id": "bi-515",
+    "name": "chat-square"
+  },
+  {
+    "id": "bi-516",
+    "name": "chat-square-dots"
+  },
+  {
+    "id": "bi-517",
+    "name": "chat-square-dots-fill"
+  },
+  {
+    "id": "bi-518",
+    "name": "chat-square-fill"
+  },
+  {
+    "id": "bi-519",
+    "name": "chat-square-heart"
+  },
+  {
+    "id": "bi-520",
+    "name": "chat-square-heart-fill"
+  },
+  {
+    "id": "bi-521",
+    "name": "chat-square-quote"
+  },
+  {
+    "id": "bi-522",
+    "name": "chat-square-quote-fill"
+  },
+  {
+    "id": "bi-523",
+    "name": "chat-square-text"
+  },
+  {
+    "id": "bi-524",
+    "name": "chat-square-text-fill"
+  },
+  {
+    "id": "bi-525",
+    "name": "chat-text"
+  },
+  {
+    "id": "bi-526",
+    "name": "chat-text-fill"
+  },
+  {
+    "id": "bi-527",
+    "name": "check"
+  },
+  {
+    "id": "bi-528",
+    "name": "check-all"
+  },
+  {
+    "id": "bi-529",
+    "name": "check-circle"
+  },
+  {
+    "id": "bi-530",
+    "name": "check-circle-fill"
+  },
+  {
+    "id": "bi-531",
+    "name": "check-lg"
+  },
+  {
+    "id": "bi-532",
+    "name": "check-square"
+  },
+  {
+    "id": "bi-533",
+    "name": "check-square-fill"
+  },
+  {
+    "id": "bi-534",
+    "name": "check2"
+  },
+  {
+    "id": "bi-535",
+    "name": "check2-all"
+  },
+  {
+    "id": "bi-536",
+    "name": "check2-circle"
+  },
+  {
+    "id": "bi-537",
+    "name": "check2-square"
+  },
+  {
+    "id": "bi-538",
+    "name": "chevron-bar-contract"
+  },
+  {
+    "id": "bi-539",
+    "name": "chevron-bar-down"
+  },
+  {
+    "id": "bi-540",
+    "name": "chevron-bar-expand"
+  },
+  {
+    "id": "bi-541",
+    "name": "chevron-bar-left"
+  },
+  {
+    "id": "bi-542",
+    "name": "chevron-bar-right"
+  },
+  {
+    "id": "bi-543",
+    "name": "chevron-bar-up"
+  },
+  {
+    "id": "bi-544",
+    "name": "chevron-compact-down"
+  },
+  {
+    "id": "bi-545",
+    "name": "chevron-compact-left"
+  },
+  {
+    "id": "bi-546",
+    "name": "chevron-compact-right"
+  },
+  {
+    "id": "bi-547",
+    "name": "chevron-compact-up"
+  },
+  {
+    "id": "bi-548",
+    "name": "chevron-contract"
+  },
+  {
+    "id": "bi-549",
+    "name": "chevron-double-down"
+  },
+  {
+    "id": "bi-550",
+    "name": "chevron-double-left"
+  },
+  {
+    "id": "bi-551",
+    "name": "chevron-double-right"
+  },
+  {
+    "id": "bi-552",
+    "name": "chevron-double-up"
+  },
+  {
+    "id": "bi-553",
+    "name": "chevron-down"
+  },
+  {
+    "id": "bi-554",
+    "name": "chevron-expand"
+  },
+  {
+    "id": "bi-555",
+    "name": "chevron-left"
+  },
+  {
+    "id": "bi-556",
+    "name": "chevron-right"
+  },
+  {
+    "id": "bi-557",
+    "name": "chevron-up"
+  },
+  {
+    "id": "bi-558",
+    "name": "circle"
+  },
+  {
+    "id": "bi-559",
+    "name": "circle-fill"
+  },
+  {
+    "id": "bi-560",
+    "name": "circle-half"
+  },
+  {
+    "id": "bi-561",
+    "name": "slash-circle"
+  },
+  {
+    "id": "bi-562",
+    "name": "circle-square"
+  },
+  {
+    "id": "bi-563",
+    "name": "claude"
+  },
+  {
+    "id": "bi-564",
+    "name": "clipboard"
+  },
+  {
+    "id": "bi-565",
+    "name": "clipboard-check"
+  },
+  {
+    "id": "bi-566",
+    "name": "clipboard-check-fill"
+  },
+  {
+    "id": "bi-567",
+    "name": "clipboard-data"
+  },
+  {
+    "id": "bi-568",
+    "name": "clipboard-data-fill"
+  },
+  {
+    "id": "bi-569",
+    "name": "clipboard-fill"
+  },
+  {
+    "id": "bi-570",
+    "name": "clipboard-heart"
+  },
+  {
+    "id": "bi-571",
+    "name": "clipboard-heart-fill"
+  },
+  {
+    "id": "bi-572",
+    "name": "clipboard-minus"
+  },
+  {
+    "id": "bi-573",
+    "name": "clipboard-minus-fill"
+  },
+  {
+    "id": "bi-574",
+    "name": "clipboard-plus"
+  },
+  {
+    "id": "bi-575",
+    "name": "clipboard-plus-fill"
+  },
+  {
+    "id": "bi-576",
+    "name": "clipboard-pulse"
+  },
+  {
+    "id": "bi-577",
+    "name": "clipboard-x"
+  },
+  {
+    "id": "bi-578",
+    "name": "clipboard-x-fill"
+  },
+  {
+    "id": "bi-579",
+    "name": "clipboard2"
+  },
+  {
+    "id": "bi-580",
+    "name": "clipboard2-check"
+  },
+  {
+    "id": "bi-581",
+    "name": "clipboard2-check-fill"
+  },
+  {
+    "id": "bi-582",
+    "name": "clipboard2-data"
+  },
+  {
+    "id": "bi-583",
+    "name": "clipboard2-data-fill"
+  },
+  {
+    "id": "bi-584",
+    "name": "clipboard2-fill"
+  },
+  {
+    "id": "bi-585",
+    "name": "clipboard2-heart"
+  },
+  {
+    "id": "bi-586",
+    "name": "clipboard2-heart-fill"
+  },
+  {
+    "id": "bi-587",
+    "name": "clipboard2-minus"
+  },
+  {
+    "id": "bi-588",
+    "name": "clipboard2-minus-fill"
+  },
+  {
+    "id": "bi-589",
+    "name": "clipboard2-plus"
+  },
+  {
+    "id": "bi-590",
+    "name": "clipboard2-plus-fill"
+  },
+  {
+    "id": "bi-591",
+    "name": "clipboard2-pulse"
+  },
+  {
+    "id": "bi-592",
+    "name": "clipboard2-pulse-fill"
+  },
+  {
+    "id": "bi-593",
+    "name": "clipboard2-x"
+  },
+  {
+    "id": "bi-594",
+    "name": "clipboard2-x-fill"
+  },
+  {
+    "id": "bi-595",
+    "name": "clock"
+  },
+  {
+    "id": "bi-596",
+    "name": "clock-fill"
+  },
+  {
+    "id": "bi-597",
+    "name": "clock-history"
+  },
+  {
+    "id": "bi-598",
+    "name": "cloud"
+  },
+  {
+    "id": "bi-599",
+    "name": "cloud-arrow-down"
+  },
+  {
+    "id": "bi-600",
+    "name": "cloud-arrow-down-fill"
+  },
+  {
+    "id": "bi-601",
+    "name": "cloud-arrow-up"
+  },
+  {
+    "id": "bi-602",
+    "name": "cloud-arrow-up-fill"
+  },
+  {
+    "id": "bi-603",
+    "name": "cloud-check"
+  },
+  {
+    "id": "bi-604",
+    "name": "cloud-check-fill"
+  },
+  {
+    "id": "bi-605",
+    "name": "cloud-download"
+  },
+  {
+    "id": "bi-606",
+    "name": "cloud-download-fill"
+  },
+  {
+    "id": "bi-607",
+    "name": "cloud-drizzle"
+  },
+  {
+    "id": "bi-608",
+    "name": "cloud-drizzle-fill"
+  },
+  {
+    "id": "bi-609",
+    "name": "cloud-fill"
+  },
+  {
+    "id": "bi-610",
+    "name": "cloud-fog"
+  },
+  {
+    "id": "bi-611",
+    "name": "cloud-fog-fill"
+  },
+  {
+    "id": "bi-612",
+    "name": "cloud-fog2"
+  },
+  {
+    "id": "bi-613",
+    "name": "cloud-fog2-fill"
+  },
+  {
+    "id": "bi-614",
+    "name": "cloud-hail"
+  },
+  {
+    "id": "bi-615",
+    "name": "cloud-hail-fill"
+  },
+  {
+    "id": "bi-616",
+    "name": "cloud-haze"
+  },
+  {
+    "id": "bi-617",
+    "name": "cloud-haze-fill"
+  },
+  {
+    "id": "bi-618",
+    "name": "cloud-haze2"
+  },
+  {
+    "id": "bi-619",
+    "name": "cloud-haze2-fill"
+  },
+  {
+    "id": "bi-620",
+    "name": "cloud-lightning"
+  },
+  {
+    "id": "bi-621",
+    "name": "cloud-lightning-fill"
+  },
+  {
+    "id": "bi-622",
+    "name": "cloud-lightning-rain"
+  },
+  {
+    "id": "bi-623",
+    "name": "cloud-lightning-rain-fill"
+  },
+  {
+    "id": "bi-624",
+    "name": "cloud-minus"
+  },
+  {
+    "id": "bi-625",
+    "name": "cloud-minus-fill"
+  },
+  {
+    "id": "bi-626",
+    "name": "cloud-moon"
+  },
+  {
+    "id": "bi-627",
+    "name": "cloud-moon-fill"
+  },
+  {
+    "id": "bi-628",
+    "name": "cloud-plus"
+  },
+  {
+    "id": "bi-629",
+    "name": "cloud-plus-fill"
+  },
+  {
+    "id": "bi-630",
+    "name": "cloud-rain"
+  },
+  {
+    "id": "bi-631",
+    "name": "cloud-rain-fill"
+  },
+  {
+    "id": "bi-632",
+    "name": "cloud-rain-heavy"
+  },
+  {
+    "id": "bi-633",
+    "name": "cloud-rain-heavy-fill"
+  },
+  {
+    "id": "bi-634",
+    "name": "cloud-slash"
+  },
+  {
+    "id": "bi-635",
+    "name": "cloud-slash-fill"
+  },
+  {
+    "id": "bi-636",
+    "name": "cloud-sleet"
+  },
+  {
+    "id": "bi-637",
+    "name": "cloud-sleet-fill"
+  },
+  {
+    "id": "bi-638",
+    "name": "cloud-snow"
+  },
+  {
+    "id": "bi-639",
+    "name": "cloud-snow-fill"
+  },
+  {
+    "id": "bi-640",
+    "name": "cloud-sun"
+  },
+  {
+    "id": "bi-641",
+    "name": "cloud-sun-fill"
+  },
+  {
+    "id": "bi-642",
+    "name": "cloud-upload"
+  },
+  {
+    "id": "bi-643",
+    "name": "cloud-upload-fill"
+  },
+  {
+    "id": "bi-644",
+    "name": "clouds"
+  },
+  {
+    "id": "bi-645",
+    "name": "clouds-fill"
+  },
+  {
+    "id": "bi-646",
+    "name": "cloudy"
+  },
+  {
+    "id": "bi-647",
+    "name": "cloudy-fill"
+  },
+  {
+    "id": "bi-648",
+    "name": "code"
+  },
+  {
+    "id": "bi-649",
+    "name": "code-slash"
+  },
+  {
+    "id": "bi-650",
+    "name": "code-square"
+  },
+  {
+    "id": "bi-651",
+    "name": "coin"
+  },
+  {
+    "id": "bi-652",
+    "name": "collection"
+  },
+  {
+    "id": "bi-653",
+    "name": "collection-fill"
+  },
+  {
+    "id": "bi-654",
+    "name": "collection-play"
+  },
+  {
+    "id": "bi-655",
+    "name": "collection-play-fill"
+  },
+  {
+    "id": "bi-656",
+    "name": "columns"
+  },
+  {
+    "id": "bi-657",
+    "name": "columns-gap"
+  },
+  {
+    "id": "bi-658",
+    "name": "command"
+  },
+  {
+    "id": "bi-659",
+    "name": "compass"
+  },
+  {
+    "id": "bi-660",
+    "name": "compass-fill"
+  },
+  {
+    "id": "bi-661",
+    "name": "cone"
+  },
+  {
+    "id": "bi-662",
+    "name": "cone-striped"
+  },
+  {
+    "id": "bi-663",
+    "name": "controller"
+  },
+  {
+    "id": "bi-664",
+    "name": "cookie"
+  },
+  {
+    "id": "bi-665",
+    "name": "copy"
+  },
+  {
+    "id": "bi-666",
+    "name": "cpu"
+  },
+  {
+    "id": "bi-667",
+    "name": "cpu-fill"
+  },
+  {
+    "id": "bi-668",
+    "name": "credit-card"
+  },
+  {
+    "id": "bi-669",
+    "name": "credit-card-2-back"
+  },
+  {
+    "id": "bi-670",
+    "name": "credit-card-2-back-fill"
+  },
+  {
+    "id": "bi-671",
+    "name": "credit-card-2-front"
+  },
+  {
+    "id": "bi-672",
+    "name": "credit-card-2-front-fill"
+  },
+  {
+    "id": "bi-673",
+    "name": "credit-card-fill"
+  },
+  {
+    "id": "bi-674",
+    "name": "crop"
+  },
+  {
+    "id": "bi-675",
+    "name": "crosshair"
+  },
+  {
+    "id": "bi-676",
+    "name": "crosshair2"
+  },
+  {
+    "id": "bi-677",
+    "name": "css"
+  },
+  {
+    "id": "bi-678",
+    "name": "cup"
+  },
+  {
+    "id": "bi-679",
+    "name": "cup-fill"
+  },
+  {
+    "id": "bi-680",
+    "name": "cup-hot"
+  },
+  {
+    "id": "bi-681",
+    "name": "cup-hot-fill"
+  },
+  {
+    "id": "bi-682",
+    "name": "cup-straw"
+  },
+  {
+    "id": "bi-683",
+    "name": "currency-bitcoin"
+  },
+  {
+    "id": "bi-684",
+    "name": "currency-dollar"
+  },
+  {
+    "id": "bi-685",
+    "name": "currency-euro"
+  },
+  {
+    "id": "bi-686",
+    "name": "currency-exchange"
+  },
+  {
+    "id": "bi-687",
+    "name": "currency-pound"
+  },
+  {
+    "id": "bi-688",
+    "name": "currency-rupee"
+  },
+  {
+    "id": "bi-689",
+    "name": "currency-yen"
+  },
+  {
+    "id": "bi-690",
+    "name": "cursor"
+  },
+  {
+    "id": "bi-691",
+    "name": "cursor-fill"
+  },
+  {
+    "id": "bi-692",
+    "name": "cursor-text"
+  },
+  {
+    "id": "bi-693",
+    "name": "dash"
+  },
+  {
+    "id": "bi-694",
+    "name": "dash-circle"
+  },
+  {
+    "id": "bi-695",
+    "name": "dash-circle-dotted"
+  },
+  {
+    "id": "bi-696",
+    "name": "dash-circle-fill"
+  },
+  {
+    "id": "bi-697",
+    "name": "dash-lg"
+  },
+  {
+    "id": "bi-698",
+    "name": "dash-square"
+  },
+  {
+    "id": "bi-699",
+    "name": "dash-square-dotted"
+  },
+  {
+    "id": "bi-700",
+    "name": "dash-square-fill"
+  },
+  {
+    "id": "bi-701",
+    "name": "database"
+  },
+  {
+    "id": "bi-702",
+    "name": "database-add"
+  },
+  {
+    "id": "bi-703",
+    "name": "database-check"
+  },
+  {
+    "id": "bi-704",
+    "name": "database-dash"
+  },
+  {
+    "id": "bi-705",
+    "name": "database-down"
+  },
+  {
+    "id": "bi-706",
+    "name": "database-exclamation"
+  },
+  {
+    "id": "bi-707",
+    "name": "database-fill"
+  },
+  {
+    "id": "bi-708",
+    "name": "database-fill-add"
+  },
+  {
+    "id": "bi-709",
+    "name": "database-fill-check"
+  },
+  {
+    "id": "bi-710",
+    "name": "database-fill-dash"
+  },
+  {
+    "id": "bi-711",
+    "name": "database-fill-down"
+  },
+  {
+    "id": "bi-712",
+    "name": "database-fill-exclamation"
+  },
+  {
+    "id": "bi-713",
+    "name": "database-fill-gear"
+  },
+  {
+    "id": "bi-714",
+    "name": "database-fill-lock"
+  },
+  {
+    "id": "bi-715",
+    "name": "database-fill-slash"
+  },
+  {
+    "id": "bi-716",
+    "name": "database-fill-up"
+  },
+  {
+    "id": "bi-717",
+    "name": "database-fill-x"
+  },
+  {
+    "id": "bi-718",
+    "name": "database-gear"
+  },
+  {
+    "id": "bi-719",
+    "name": "database-lock"
+  },
+  {
+    "id": "bi-720",
+    "name": "database-slash"
+  },
+  {
+    "id": "bi-721",
+    "name": "database-up"
+  },
+  {
+    "id": "bi-722",
+    "name": "database-x"
+  },
+  {
+    "id": "bi-723",
+    "name": "device-hdd"
+  },
+  {
+    "id": "bi-724",
+    "name": "device-hdd-fill"
+  },
+  {
+    "id": "bi-725",
+    "name": "device-ssd"
+  },
+  {
+    "id": "bi-726",
+    "name": "device-ssd-fill"
+  },
+  {
+    "id": "bi-727",
+    "name": "diagram-2"
+  },
+  {
+    "id": "bi-728",
+    "name": "diagram-2-fill"
+  },
+  {
+    "id": "bi-729",
+    "name": "diagram-3"
+  },
+  {
+    "id": "bi-730",
+    "name": "diagram-3-fill"
+  },
+  {
+    "id": "bi-731",
+    "name": "diamond"
+  },
+  {
+    "id": "bi-732",
+    "name": "diamond-fill"
+  },
+  {
+    "id": "bi-733",
+    "name": "diamond-half"
+  },
+  {
+    "id": "bi-734",
+    "name": "dice-1"
+  },
+  {
+    "id": "bi-735",
+    "name": "dice-1-fill"
+  },
+  {
+    "id": "bi-736",
+    "name": "dice-2"
+  },
+  {
+    "id": "bi-737",
+    "name": "dice-2-fill"
+  },
+  {
+    "id": "bi-738",
+    "name": "dice-3"
+  },
+  {
+    "id": "bi-739",
+    "name": "dice-3-fill"
+  },
+  {
+    "id": "bi-740",
+    "name": "dice-4"
+  },
+  {
+    "id": "bi-741",
+    "name": "dice-4-fill"
+  },
+  {
+    "id": "bi-742",
+    "name": "dice-5"
+  },
+  {
+    "id": "bi-743",
+    "name": "dice-5-fill"
+  },
+  {
+    "id": "bi-744",
+    "name": "dice-6"
+  },
+  {
+    "id": "bi-745",
+    "name": "dice-6-fill"
+  },
+  {
+    "id": "bi-746",
+    "name": "disc"
+  },
+  {
+    "id": "bi-747",
+    "name": "disc-fill"
+  },
+  {
+    "id": "bi-748",
+    "name": "discord"
+  },
+  {
+    "id": "bi-749",
+    "name": "display"
+  },
+  {
+    "id": "bi-750",
+    "name": "display-fill"
+  },
+  {
+    "id": "bi-751",
+    "name": "displayport"
+  },
+  {
+    "id": "bi-752",
+    "name": "displayport-fill"
+  },
+  {
+    "id": "bi-753",
+    "name": "distribute-horizontal"
+  },
+  {
+    "id": "bi-754",
+    "name": "distribute-vertical"
+  },
+  {
+    "id": "bi-755",
+    "name": "door-closed"
+  },
+  {
+    "id": "bi-756",
+    "name": "door-closed-fill"
+  },
+  {
+    "id": "bi-757",
+    "name": "door-open"
+  },
+  {
+    "id": "bi-758",
+    "name": "door-open-fill"
+  },
+  {
+    "id": "bi-759",
+    "name": "dot"
+  },
+  {
+    "id": "bi-760",
+    "name": "download"
+  },
+  {
+    "id": "bi-761",
+    "name": "dpad"
+  },
+  {
+    "id": "bi-762",
+    "name": "dpad-fill"
+  },
+  {
+    "id": "bi-763",
+    "name": "dribbble"
+  },
+  {
+    "id": "bi-764",
+    "name": "dropbox"
+  },
+  {
+    "id": "bi-765",
+    "name": "droplet"
+  },
+  {
+    "id": "bi-766",
+    "name": "droplet-fill"
+  },
+  {
+    "id": "bi-767",
+    "name": "droplet-half"
+  },
+  {
+    "id": "bi-768",
+    "name": "duffle"
+  },
+  {
+    "id": "bi-769",
+    "name": "duffle-fill"
+  },
+  {
+    "id": "bi-770",
+    "name": "ear"
+  },
+  {
+    "id": "bi-771",
+    "name": "ear-fill"
+  },
+  {
+    "id": "bi-772",
+    "name": "earbuds"
+  },
+  {
+    "id": "bi-773",
+    "name": "easel"
+  },
+  {
+    "id": "bi-774",
+    "name": "easel-fill"
+  },
+  {
+    "id": "bi-775",
+    "name": "easel2"
+  },
+  {
+    "id": "bi-776",
+    "name": "easel2-fill"
+  },
+  {
+    "id": "bi-777",
+    "name": "easel3"
+  },
+  {
+    "id": "bi-778",
+    "name": "easel3-fill"
+  },
+  {
+    "id": "bi-779",
+    "name": "egg"
+  },
+  {
+    "id": "bi-780",
+    "name": "egg-fill"
+  },
+  {
+    "id": "bi-781",
+    "name": "egg-fried"
+  },
+  {
+    "id": "bi-782",
+    "name": "eject"
+  },
+  {
+    "id": "bi-783",
+    "name": "eject-fill"
+  },
+  {
+    "id": "bi-784",
+    "name": "emoji-angry"
+  },
+  {
+    "id": "bi-785",
+    "name": "emoji-angry-fill"
+  },
+  {
+    "id": "bi-786",
+    "name": "emoji-astonished"
+  },
+  {
+    "id": "bi-787",
+    "name": "emoji-astonished-fill"
+  },
+  {
+    "id": "bi-788",
+    "name": "emoji-dizzy"
+  },
+  {
+    "id": "bi-789",
+    "name": "emoji-dizzy-fill"
+  },
+  {
+    "id": "bi-790",
+    "name": "emoji-expressionless"
+  },
+  {
+    "id": "bi-791",
+    "name": "emoji-expressionless-fill"
+  },
+  {
+    "id": "bi-792",
+    "name": "emoji-frown"
+  },
+  {
+    "id": "bi-793",
+    "name": "emoji-frown-fill"
+  },
+  {
+    "id": "bi-794",
+    "name": "emoji-grimace"
+  },
+  {
+    "id": "bi-795",
+    "name": "emoji-grimace-fill"
+  },
+  {
+    "id": "bi-796",
+    "name": "emoji-grin"
+  },
+  {
+    "id": "bi-797",
+    "name": "emoji-grin-fill"
+  },
+  {
+    "id": "bi-798",
+    "name": "emoji-heart-eyes"
+  },
+  {
+    "id": "bi-799",
+    "name": "emoji-heart-eyes-fill"
+  },
+  {
+    "id": "bi-800",
+    "name": "emoji-kiss"
+  },
+  {
+    "id": "bi-801",
+    "name": "emoji-kiss-fill"
+  },
+  {
+    "id": "bi-802",
+    "name": "emoji-laughing"
+  },
+  {
+    "id": "bi-803",
+    "name": "emoji-laughing-fill"
+  },
+  {
+    "id": "bi-804",
+    "name": "emoji-neutral"
+  },
+  {
+    "id": "bi-805",
+    "name": "emoji-neutral-fill"
+  },
+  {
+    "id": "bi-806",
+    "name": "emoji-smile"
+  },
+  {
+    "id": "bi-807",
+    "name": "emoji-smile-fill"
+  },
+  {
+    "id": "bi-808",
+    "name": "emoji-smile-upside-down"
+  },
+  {
+    "id": "bi-809",
+    "name": "emoji-smile-upside-down-fill"
+  },
+  {
+    "id": "bi-810",
+    "name": "emoji-sunglasses"
+  },
+  {
+    "id": "bi-811",
+    "name": "emoji-sunglasses-fill"
+  },
+  {
+    "id": "bi-812",
+    "name": "emoji-surprise"
+  },
+  {
+    "id": "bi-813",
+    "name": "emoji-surprise-fill"
+  },
+  {
+    "id": "bi-814",
+    "name": "emoji-tear"
+  },
+  {
+    "id": "bi-815",
+    "name": "emoji-tear-fill"
+  },
+  {
+    "id": "bi-816",
+    "name": "emoji-wink"
+  },
+  {
+    "id": "bi-817",
+    "name": "emoji-wink-fill"
+  },
+  {
+    "id": "bi-818",
+    "name": "envelope"
+  },
+  {
+    "id": "bi-819",
+    "name": "envelope-arrow-down"
+  },
+  {
+    "id": "bi-820",
+    "name": "envelope-arrow-down-fill"
+  },
+  {
+    "id": "bi-821",
+    "name": "envelope-arrow-up"
+  },
+  {
+    "id": "bi-822",
+    "name": "envelope-arrow-up-fill"
+  },
+  {
+    "id": "bi-823",
+    "name": "envelope-at"
+  },
+  {
+    "id": "bi-824",
+    "name": "envelope-at-fill"
+  },
+  {
+    "id": "bi-825",
+    "name": "envelope-check"
+  },
+  {
+    "id": "bi-826",
+    "name": "envelope-check-fill"
+  },
+  {
+    "id": "bi-827",
+    "name": "envelope-dash"
+  },
+  {
+    "id": "bi-828",
+    "name": "envelope-dash-fill"
+  },
+  {
+    "id": "bi-829",
+    "name": "envelope-exclamation"
+  },
+  {
+    "id": "bi-830",
+    "name": "envelope-exclamation-fill"
+  },
+  {
+    "id": "bi-831",
+    "name": "envelope-fill"
+  },
+  {
+    "id": "bi-832",
+    "name": "envelope-heart"
+  },
+  {
+    "id": "bi-833",
+    "name": "envelope-heart-fill"
+  },
+  {
+    "id": "bi-834",
+    "name": "envelope-open"
+  },
+  {
+    "id": "bi-835",
+    "name": "envelope-open-fill"
+  },
+  {
+    "id": "bi-836",
+    "name": "envelope-open-heart"
+  },
+  {
+    "id": "bi-837",
+    "name": "envelope-open-heart-fill"
+  },
+  {
+    "id": "bi-838",
+    "name": "envelope-paper"
+  },
+  {
+    "id": "bi-839",
+    "name": "envelope-paper-fill"
+  },
+  {
+    "id": "bi-840",
+    "name": "envelope-paper-heart"
+  },
+  {
+    "id": "bi-841",
+    "name": "envelope-paper-heart-fill"
+  },
+  {
+    "id": "bi-842",
+    "name": "envelope-plus"
+  },
+  {
+    "id": "bi-843",
+    "name": "envelope-plus-fill"
+  },
+  {
+    "id": "bi-844",
+    "name": "envelope-slash"
+  },
+  {
+    "id": "bi-845",
+    "name": "envelope-slash-fill"
+  },
+  {
+    "id": "bi-846",
+    "name": "envelope-x"
+  },
+  {
+    "id": "bi-847",
+    "name": "envelope-x-fill"
+  },
+  {
+    "id": "bi-848",
+    "name": "eraser"
+  },
+  {
+    "id": "bi-849",
+    "name": "eraser-fill"
+  },
+  {
+    "id": "bi-850",
+    "name": "escape"
+  },
+  {
+    "id": "bi-851",
+    "name": "ethernet"
+  },
+  {
+    "id": "bi-852",
+    "name": "ev-front"
+  },
+  {
+    "id": "bi-853",
+    "name": "ev-front-fill"
+  },
+  {
+    "id": "bi-854",
+    "name": "ev-station"
+  },
+  {
+    "id": "bi-855",
+    "name": "ev-station-fill"
+  },
+  {
+    "id": "bi-856",
+    "name": "exclamation"
+  },
+  {
+    "id": "bi-857",
+    "name": "exclamation-circle"
+  },
+  {
+    "id": "bi-858",
+    "name": "exclamation-circle-fill"
+  },
+  {
+    "id": "bi-859",
+    "name": "exclamation-diamond"
+  },
+  {
+    "id": "bi-860",
+    "name": "exclamation-diamond-fill"
+  },
+  {
+    "id": "bi-861",
+    "name": "exclamation-lg"
+  },
+  {
+    "id": "bi-862",
+    "name": "exclamation-octagon"
+  },
+  {
+    "id": "bi-863",
+    "name": "exclamation-octagon-fill"
+  },
+  {
+    "id": "bi-864",
+    "name": "exclamation-square"
+  },
+  {
+    "id": "bi-865",
+    "name": "exclamation-square-fill"
+  },
+  {
+    "id": "bi-866",
+    "name": "exclamation-triangle"
+  },
+  {
+    "id": "bi-867",
+    "name": "exclamation-triangle-fill"
+  },
+  {
+    "id": "bi-868",
+    "name": "exclude"
+  },
+  {
+    "id": "bi-869",
+    "name": "explicit"
+  },
+  {
+    "id": "bi-870",
+    "name": "explicit-fill"
+  },
+  {
+    "id": "bi-871",
+    "name": "exposure"
+  },
+  {
+    "id": "bi-872",
+    "name": "eye"
+  },
+  {
+    "id": "bi-873",
+    "name": "eye-fill"
+  },
+  {
+    "id": "bi-874",
+    "name": "eye-slash"
+  },
+  {
+    "id": "bi-875",
+    "name": "eye-slash-fill"
+  },
+  {
+    "id": "bi-876",
+    "name": "eyedropper"
+  },
+  {
+    "id": "bi-877",
+    "name": "eyeglasses"
+  },
+  {
+    "id": "bi-878",
+    "name": "facebook"
+  },
+  {
+    "id": "bi-879",
+    "name": "fan"
+  },
+  {
+    "id": "bi-880",
+    "name": "fast-forward"
+  },
+  {
+    "id": "bi-881",
+    "name": "fast-forward-btn"
+  },
+  {
+    "id": "bi-882",
+    "name": "fast-forward-btn-fill"
+  },
+  {
+    "id": "bi-883",
+    "name": "fast-forward-circle"
+  },
+  {
+    "id": "bi-884",
+    "name": "fast-forward-circle-fill"
+  },
+  {
+    "id": "bi-885",
+    "name": "fast-forward-fill"
+  },
+  {
+    "id": "bi-886",
+    "name": "feather"
+  },
+  {
+    "id": "bi-887",
+    "name": "feather2"
+  },
+  {
+    "id": "bi-888",
+    "name": "file"
+  },
+  {
+    "id": "bi-889",
+    "name": "file-arrow-down"
+  },
+  {
+    "id": "bi-890",
+    "name": "file-arrow-down-fill"
+  },
+  {
+    "id": "bi-891",
+    "name": "file-arrow-up"
+  },
+  {
+    "id": "bi-892",
+    "name": "file-arrow-up-fill"
+  },
+  {
+    "id": "bi-893",
+    "name": "file-bar-graph"
+  },
+  {
+    "id": "bi-894",
+    "name": "file-bar-graph-fill"
+  },
+  {
+    "id": "bi-895",
+    "name": "file-binary"
+  },
+  {
+    "id": "bi-896",
+    "name": "file-binary-fill"
+  },
+  {
+    "id": "bi-897",
+    "name": "file-break"
+  },
+  {
+    "id": "bi-898",
+    "name": "file-break-fill"
+  },
+  {
+    "id": "bi-899",
+    "name": "file-check"
+  },
+  {
+    "id": "bi-900",
+    "name": "file-check-fill"
+  },
+  {
+    "id": "bi-901",
+    "name": "file-code"
+  },
+  {
+    "id": "bi-902",
+    "name": "file-code-fill"
+  },
+  {
+    "id": "bi-903",
+    "name": "file-diff"
+  },
+  {
+    "id": "bi-904",
+    "name": "file-diff-fill"
+  },
+  {
+    "id": "bi-905",
+    "name": "file-earmark"
+  },
+  {
+    "id": "bi-906",
+    "name": "file-earmark-arrow-down"
+  },
+  {
+    "id": "bi-907",
+    "name": "file-earmark-arrow-down-fill"
+  },
+  {
+    "id": "bi-908",
+    "name": "file-earmark-arrow-up"
+  },
+  {
+    "id": "bi-909",
+    "name": "file-earmark-arrow-up-fill"
+  },
+  {
+    "id": "bi-910",
+    "name": "file-earmark-bar-graph"
+  },
+  {
+    "id": "bi-911",
+    "name": "file-earmark-bar-graph-fill"
+  },
+  {
+    "id": "bi-912",
+    "name": "file-earmark-binary"
+  },
+  {
+    "id": "bi-913",
+    "name": "file-earmark-binary-fill"
+  },
+  {
+    "id": "bi-914",
+    "name": "file-earmark-break"
+  },
+  {
+    "id": "bi-915",
+    "name": "file-earmark-break-fill"
+  },
+  {
+    "id": "bi-916",
+    "name": "file-earmark-check"
+  },
+  {
+    "id": "bi-917",
+    "name": "file-earmark-check-fill"
+  },
+  {
+    "id": "bi-918",
+    "name": "file-earmark-code"
+  },
+  {
+    "id": "bi-919",
+    "name": "file-earmark-code-fill"
+  },
+  {
+    "id": "bi-920",
+    "name": "file-earmark-diff"
+  },
+  {
+    "id": "bi-921",
+    "name": "file-earmark-diff-fill"
+  },
+  {
+    "id": "bi-922",
+    "name": "file-earmark-easel"
+  },
+  {
+    "id": "bi-923",
+    "name": "file-earmark-easel-fill"
+  },
+  {
+    "id": "bi-924",
+    "name": "file-earmark-excel"
+  },
+  {
+    "id": "bi-925",
+    "name": "file-earmark-excel-fill"
+  },
+  {
+    "id": "bi-926",
+    "name": "file-earmark-fill"
+  },
+  {
+    "id": "bi-927",
+    "name": "file-earmark-font"
+  },
+  {
+    "id": "bi-928",
+    "name": "file-earmark-font-fill"
+  },
+  {
+    "id": "bi-929",
+    "name": "file-earmark-image"
+  },
+  {
+    "id": "bi-930",
+    "name": "file-earmark-image-fill"
+  },
+  {
+    "id": "bi-931",
+    "name": "file-earmark-lock"
+  },
+  {
+    "id": "bi-932",
+    "name": "file-earmark-lock-fill"
+  },
+  {
+    "id": "bi-933",
+    "name": "file-earmark-lock2"
+  },
+  {
+    "id": "bi-934",
+    "name": "file-earmark-lock2-fill"
+  },
+  {
+    "id": "bi-935",
+    "name": "file-earmark-medical"
+  },
+  {
+    "id": "bi-936",
+    "name": "file-earmark-medical-fill"
+  },
+  {
+    "id": "bi-937",
+    "name": "file-earmark-minus"
+  },
+  {
+    "id": "bi-938",
+    "name": "file-earmark-minus-fill"
+  },
+  {
+    "id": "bi-939",
+    "name": "file-earmark-music"
+  },
+  {
+    "id": "bi-940",
+    "name": "file-earmark-music-fill"
+  },
+  {
+    "id": "bi-941",
+    "name": "file-earmark-pdf"
+  },
+  {
+    "id": "bi-942",
+    "name": "file-earmark-pdf-fill"
+  },
+  {
+    "id": "bi-943",
+    "name": "file-earmark-person"
+  },
+  {
+    "id": "bi-944",
+    "name": "file-earmark-person-fill"
+  },
+  {
+    "id": "bi-945",
+    "name": "file-earmark-play"
+  },
+  {
+    "id": "bi-946",
+    "name": "file-earmark-play-fill"
+  },
+  {
+    "id": "bi-947",
+    "name": "file-earmark-plus"
+  },
+  {
+    "id": "bi-948",
+    "name": "file-earmark-plus-fill"
+  },
+  {
+    "id": "bi-949",
+    "name": "file-earmark-post"
+  },
+  {
+    "id": "bi-950",
+    "name": "file-earmark-post-fill"
+  },
+  {
+    "id": "bi-951",
+    "name": "file-earmark-ppt"
+  },
+  {
+    "id": "bi-952",
+    "name": "file-earmark-ppt-fill"
+  },
+  {
+    "id": "bi-953",
+    "name": "file-earmark-richtext"
+  },
+  {
+    "id": "bi-954",
+    "name": "file-earmark-richtext-fill"
+  },
+  {
+    "id": "bi-955",
+    "name": "file-earmark-ruled"
+  },
+  {
+    "id": "bi-956",
+    "name": "file-earmark-ruled-fill"
+  },
+  {
+    "id": "bi-957",
+    "name": "file-earmark-slides"
+  },
+  {
+    "id": "bi-958",
+    "name": "file-earmark-slides-fill"
+  },
+  {
+    "id": "bi-959",
+    "name": "file-earmark-spreadsheet"
+  },
+  {
+    "id": "bi-960",
+    "name": "file-earmark-spreadsheet-fill"
+  },
+  {
+    "id": "bi-961",
+    "name": "file-earmark-text"
+  },
+  {
+    "id": "bi-962",
+    "name": "file-earmark-text-fill"
+  },
+  {
+    "id": "bi-963",
+    "name": "file-earmark-word"
+  },
+  {
+    "id": "bi-964",
+    "name": "file-earmark-word-fill"
+  },
+  {
+    "id": "bi-965",
+    "name": "file-earmark-x"
+  },
+  {
+    "id": "bi-966",
+    "name": "file-earmark-x-fill"
+  },
+  {
+    "id": "bi-967",
+    "name": "file-earmark-zip"
+  },
+  {
+    "id": "bi-968",
+    "name": "file-earmark-zip-fill"
+  },
+  {
+    "id": "bi-969",
+    "name": "file-easel"
+  },
+  {
+    "id": "bi-970",
+    "name": "file-easel-fill"
+  },
+  {
+    "id": "bi-971",
+    "name": "file-excel"
+  },
+  {
+    "id": "bi-972",
+    "name": "file-excel-fill"
+  },
+  {
+    "id": "bi-973",
+    "name": "file-fill"
+  },
+  {
+    "id": "bi-974",
+    "name": "file-font"
+  },
+  {
+    "id": "bi-975",
+    "name": "file-font-fill"
+  },
+  {
+    "id": "bi-976",
+    "name": "file-image"
+  },
+  {
+    "id": "bi-977",
+    "name": "file-image-fill"
+  },
+  {
+    "id": "bi-978",
+    "name": "file-lock"
+  },
+  {
+    "id": "bi-979",
+    "name": "file-lock-fill"
+  },
+  {
+    "id": "bi-980",
+    "name": "file-lock2"
+  },
+  {
+    "id": "bi-981",
+    "name": "file-lock2-fill"
+  },
+  {
+    "id": "bi-982",
+    "name": "file-medical"
+  },
+  {
+    "id": "bi-983",
+    "name": "file-medical-fill"
+  },
+  {
+    "id": "bi-984",
+    "name": "file-minus"
+  },
+  {
+    "id": "bi-985",
+    "name": "file-minus-fill"
+  },
+  {
+    "id": "bi-986",
+    "name": "file-music"
+  },
+  {
+    "id": "bi-987",
+    "name": "file-music-fill"
+  },
+  {
+    "id": "bi-988",
+    "name": "file-pdf"
+  },
+  {
+    "id": "bi-989",
+    "name": "file-pdf-fill"
+  },
+  {
+    "id": "bi-990",
+    "name": "file-person"
+  },
+  {
+    "id": "bi-991",
+    "name": "file-person-fill"
+  },
+  {
+    "id": "bi-992",
+    "name": "file-play"
+  },
+  {
+    "id": "bi-993",
+    "name": "file-play-fill"
+  },
+  {
+    "id": "bi-994",
+    "name": "file-plus"
+  },
+  {
+    "id": "bi-995",
+    "name": "file-plus-fill"
+  },
+  {
+    "id": "bi-996",
+    "name": "file-post"
+  },
+  {
+    "id": "bi-997",
+    "name": "file-post-fill"
+  },
+  {
+    "id": "bi-998",
+    "name": "file-ppt"
+  },
+  {
+    "id": "bi-999",
+    "name": "file-ppt-fill"
+  },
+  {
+    "id": "bi-1000",
+    "name": "file-richtext"
+  },
+  {
+    "id": "bi-1001",
+    "name": "file-richtext-fill"
+  },
+  {
+    "id": "bi-1002",
+    "name": "file-ruled"
+  },
+  {
+    "id": "bi-1003",
+    "name": "file-ruled-fill"
+  },
+  {
+    "id": "bi-1004",
+    "name": "file-slides"
+  },
+  {
+    "id": "bi-1005",
+    "name": "file-slides-fill"
+  },
+  {
+    "id": "bi-1006",
+    "name": "file-spreadsheet"
+  },
+  {
+    "id": "bi-1007",
+    "name": "file-spreadsheet-fill"
+  },
+  {
+    "id": "bi-1008",
+    "name": "file-text"
+  },
+  {
+    "id": "bi-1009",
+    "name": "file-text-fill"
+  },
+  {
+    "id": "bi-1010",
+    "name": "file-word"
+  },
+  {
+    "id": "bi-1011",
+    "name": "file-word-fill"
+  },
+  {
+    "id": "bi-1012",
+    "name": "file-x"
+  },
+  {
+    "id": "bi-1013",
+    "name": "file-x-fill"
+  },
+  {
+    "id": "bi-1014",
+    "name": "file-zip"
+  },
+  {
+    "id": "bi-1015",
+    "name": "file-zip-fill"
+  },
+  {
+    "id": "bi-1016",
+    "name": "files"
+  },
+  {
+    "id": "bi-1017",
+    "name": "files-alt"
+  },
+  {
+    "id": "bi-1018",
+    "name": "filetype-aac"
+  },
+  {
+    "id": "bi-1019",
+    "name": "filetype-ai"
+  },
+  {
+    "id": "bi-1020",
+    "name": "filetype-bmp"
+  },
+  {
+    "id": "bi-1021",
+    "name": "filetype-cs"
+  },
+  {
+    "id": "bi-1022",
+    "name": "filetype-css"
+  },
+  {
+    "id": "bi-1023",
+    "name": "filetype-csv"
+  },
+  {
+    "id": "bi-1024",
+    "name": "filetype-doc"
+  },
+  {
+    "id": "bi-1025",
+    "name": "filetype-docx"
+  },
+  {
+    "id": "bi-1026",
+    "name": "filetype-exe"
+  },
+  {
+    "id": "bi-1027",
+    "name": "filetype-gif"
+  },
+  {
+    "id": "bi-1028",
+    "name": "filetype-heic"
+  },
+  {
+    "id": "bi-1029",
+    "name": "filetype-html"
+  },
+  {
+    "id": "bi-1030",
+    "name": "filetype-java"
+  },
+  {
+    "id": "bi-1031",
+    "name": "filetype-jpg"
+  },
+  {
+    "id": "bi-1032",
+    "name": "filetype-js"
+  },
+  {
+    "id": "bi-1033",
+    "name": "filetype-json"
+  },
+  {
+    "id": "bi-1034",
+    "name": "filetype-jsx"
+  },
+  {
+    "id": "bi-1035",
+    "name": "filetype-key"
+  },
+  {
+    "id": "bi-1036",
+    "name": "filetype-m4p"
+  },
+  {
+    "id": "bi-1037",
+    "name": "filetype-md"
+  },
+  {
+    "id": "bi-1038",
+    "name": "filetype-mdx"
+  },
+  {
+    "id": "bi-1039",
+    "name": "filetype-mov"
+  },
+  {
+    "id": "bi-1040",
+    "name": "filetype-mp3"
+  },
+  {
+    "id": "bi-1041",
+    "name": "filetype-mp4"
+  },
+  {
+    "id": "bi-1042",
+    "name": "filetype-otf"
+  },
+  {
+    "id": "bi-1043",
+    "name": "filetype-pdf"
+  },
+  {
+    "id": "bi-1044",
+    "name": "filetype-php"
+  },
+  {
+    "id": "bi-1045",
+    "name": "filetype-png"
+  },
+  {
+    "id": "bi-1046",
+    "name": "filetype-ppt"
+  },
+  {
+    "id": "bi-1047",
+    "name": "filetype-pptx"
+  },
+  {
+    "id": "bi-1048",
+    "name": "filetype-psd"
+  },
+  {
+    "id": "bi-1049",
+    "name": "filetype-py"
+  },
+  {
+    "id": "bi-1050",
+    "name": "filetype-raw"
+  },
+  {
+    "id": "bi-1051",
+    "name": "filetype-rb"
+  },
+  {
+    "id": "bi-1052",
+    "name": "filetype-sass"
+  },
+  {
+    "id": "bi-1053",
+    "name": "filetype-scss"
+  },
+  {
+    "id": "bi-1054",
+    "name": "filetype-sh"
+  },
+  {
+    "id": "bi-1055",
+    "name": "filetype-sql"
+  },
+  {
+    "id": "bi-1056",
+    "name": "filetype-svg"
+  },
+  {
+    "id": "bi-1057",
+    "name": "filetype-tiff"
+  },
+  {
+    "id": "bi-1058",
+    "name": "filetype-tsx"
+  },
+  {
+    "id": "bi-1059",
+    "name": "filetype-ttf"
+  },
+  {
+    "id": "bi-1060",
+    "name": "filetype-txt"
+  },
+  {
+    "id": "bi-1061",
+    "name": "filetype-wav"
+  },
+  {
+    "id": "bi-1062",
+    "name": "filetype-woff"
+  },
+  {
+    "id": "bi-1063",
+    "name": "filetype-xls"
+  },
+  {
+    "id": "bi-1064",
+    "name": "filetype-xlsx"
+  },
+  {
+    "id": "bi-1065",
+    "name": "filetype-xml"
+  },
+  {
+    "id": "bi-1066",
+    "name": "filetype-yml"
+  },
+  {
+    "id": "bi-1067",
+    "name": "film"
+  },
+  {
+    "id": "bi-1068",
+    "name": "filter"
+  },
+  {
+    "id": "bi-1069",
+    "name": "filter-circle"
+  },
+  {
+    "id": "bi-1070",
+    "name": "filter-circle-fill"
+  },
+  {
+    "id": "bi-1071",
+    "name": "filter-left"
+  },
+  {
+    "id": "bi-1072",
+    "name": "filter-right"
+  },
+  {
+    "id": "bi-1073",
+    "name": "filter-square"
+  },
+  {
+    "id": "bi-1074",
+    "name": "filter-square-fill"
+  },
+  {
+    "id": "bi-1075",
+    "name": "fingerprint"
+  },
+  {
+    "id": "bi-1076",
+    "name": "fire"
+  },
+  {
+    "id": "bi-1077",
+    "name": "flag"
+  },
+  {
+    "id": "bi-1078",
+    "name": "flag-fill"
+  },
+  {
+    "id": "bi-1079",
+    "name": "flask"
+  },
+  {
+    "id": "bi-1080",
+    "name": "flask-fill"
+  },
+  {
+    "id": "bi-1081",
+    "name": "flask-florence"
+  },
+  {
+    "id": "bi-1082",
+    "name": "flask-florence-fill"
+  },
+  {
+    "id": "bi-1083",
+    "name": "floppy"
+  },
+  {
+    "id": "bi-1084",
+    "name": "floppy-fill"
+  },
+  {
+    "id": "bi-1085",
+    "name": "floppy2"
+  },
+  {
+    "id": "bi-1086",
+    "name": "floppy2-fill"
+  },
+  {
+    "id": "bi-1087",
+    "name": "flower1"
+  },
+  {
+    "id": "bi-1088",
+    "name": "flower2"
+  },
+  {
+    "id": "bi-1089",
+    "name": "flower3"
+  },
+  {
+    "id": "bi-1090",
+    "name": "folder"
+  },
+  {
+    "id": "bi-1091",
+    "name": "folder-check"
+  },
+  {
+    "id": "bi-1092",
+    "name": "folder-fill"
+  },
+  {
+    "id": "bi-1093",
+    "name": "folder-minus"
+  },
+  {
+    "id": "bi-1094",
+    "name": "folder-plus"
+  },
+  {
+    "id": "bi-1095",
+    "name": "folder-symlink"
+  },
+  {
+    "id": "bi-1096",
+    "name": "folder-symlink-fill"
+  },
+  {
+    "id": "bi-1097",
+    "name": "folder-x"
+  },
+  {
+    "id": "bi-1098",
+    "name": "folder2"
+  },
+  {
+    "id": "bi-1099",
+    "name": "folder2-open"
+  },
+  {
+    "id": "bi-1100",
+    "name": "fonts"
+  },
+  {
+    "id": "bi-1101",
+    "name": "fork-knife"
+  },
+  {
+    "id": "bi-1102",
+    "name": "forward"
+  },
+  {
+    "id": "bi-1103",
+    "name": "forward-fill"
+  },
+  {
+    "id": "bi-1104",
+    "name": "front"
+  },
+  {
+    "id": "bi-1105",
+    "name": "fuel-pump"
+  },
+  {
+    "id": "bi-1106",
+    "name": "fuel-pump-diesel"
+  },
+  {
+    "id": "bi-1107",
+    "name": "fuel-pump-diesel-fill"
+  },
+  {
+    "id": "bi-1108",
+    "name": "fuel-pump-fill"
+  },
+  {
+    "id": "bi-1109",
+    "name": "fullscreen"
+  },
+  {
+    "id": "bi-1110",
+    "name": "fullscreen-exit"
+  },
+  {
+    "id": "bi-1111",
+    "name": "funnel"
+  },
+  {
+    "id": "bi-1112",
+    "name": "funnel-fill"
+  },
+  {
+    "id": "bi-1113",
+    "name": "gear"
+  },
+  {
+    "id": "bi-1114",
+    "name": "gear-fill"
+  },
+  {
+    "id": "bi-1115",
+    "name": "gear-wide"
+  },
+  {
+    "id": "bi-1116",
+    "name": "gear-wide-connected"
+  },
+  {
+    "id": "bi-1117",
+    "name": "gem"
+  },
+  {
+    "id": "bi-1118",
+    "name": "gender-ambiguous"
+  },
+  {
+    "id": "bi-1119",
+    "name": "gender-female"
+  },
+  {
+    "id": "bi-1120",
+    "name": "gender-male"
+  },
+  {
+    "id": "bi-1121",
+    "name": "gender-neuter"
+  },
+  {
+    "id": "bi-1122",
+    "name": "gender-trans"
+  },
+  {
+    "id": "bi-1123",
+    "name": "geo"
+  },
+  {
+    "id": "bi-1124",
+    "name": "geo-alt"
+  },
+  {
+    "id": "bi-1125",
+    "name": "geo-alt-fill"
+  },
+  {
+    "id": "bi-1126",
+    "name": "geo-fill"
+  },
+  {
+    "id": "bi-1127",
+    "name": "gift"
+  },
+  {
+    "id": "bi-1128",
+    "name": "gift-fill"
+  },
+  {
+    "id": "bi-1129",
+    "name": "git"
+  },
+  {
+    "id": "bi-1130",
+    "name": "github"
+  },
+  {
+    "id": "bi-1131",
+    "name": "gitlab"
+  },
+  {
+    "id": "bi-1132",
+    "name": "globe"
+  },
+  {
+    "id": "bi-1133",
+    "name": "globe-americas"
+  },
+  {
+    "id": "bi-1134",
+    "name": "globe-americas-fill"
+  },
+  {
+    "id": "bi-1135",
+    "name": "globe-asia-australia"
+  },
+  {
+    "id": "bi-1136",
+    "name": "globe-asia-australia-fill"
+  },
+  {
+    "id": "bi-1137",
+    "name": "globe-central-south-asia"
+  },
+  {
+    "id": "bi-1138",
+    "name": "globe-central-south-asia-fill"
+  },
+  {
+    "id": "bi-1139",
+    "name": "globe-europe-africa"
+  },
+  {
+    "id": "bi-1140",
+    "name": "globe-europe-africa-fill"
+  },
+  {
+    "id": "bi-1141",
+    "name": "globe2"
+  },
+  {
+    "id": "bi-1142",
+    "name": "google"
+  },
+  {
+    "id": "bi-1143",
+    "name": "google-play"
+  },
+  {
+    "id": "bi-1144",
+    "name": "gpu-card"
+  },
+  {
+    "id": "bi-1145",
+    "name": "graph-down"
+  },
+  {
+    "id": "bi-1146",
+    "name": "graph-down-arrow"
+  },
+  {
+    "id": "bi-1147",
+    "name": "graph-up"
+  },
+  {
+    "id": "bi-1148",
+    "name": "graph-up-arrow"
+  },
+  {
+    "id": "bi-1149",
+    "name": "grid"
+  },
+  {
+    "id": "bi-1150",
+    "name": "grid-1x2"
+  },
+  {
+    "id": "bi-1151",
+    "name": "grid-1x2-fill"
+  },
+  {
+    "id": "bi-1152",
+    "name": "grid-3x2"
+  },
+  {
+    "id": "bi-1153",
+    "name": "grid-3x2-gap"
+  },
+  {
+    "id": "bi-1154",
+    "name": "grid-3x2-gap-fill"
+  },
+  {
+    "id": "bi-1155",
+    "name": "grid-3x3"
+  },
+  {
+    "id": "bi-1156",
+    "name": "grid-3x3-gap"
+  },
+  {
+    "id": "bi-1157",
+    "name": "grid-3x3-gap-fill"
+  },
+  {
+    "id": "bi-1158",
+    "name": "grid-fill"
+  },
+  {
+    "id": "bi-1159",
+    "name": "grip-horizontal"
+  },
+  {
+    "id": "bi-1160",
+    "name": "grip-vertical"
+  },
+  {
+    "id": "bi-1161",
+    "name": "h-circle"
+  },
+  {
+    "id": "bi-1162",
+    "name": "h-circle-fill"
+  },
+  {
+    "id": "bi-1163",
+    "name": "h-square"
+  },
+  {
+    "id": "bi-1164",
+    "name": "h-square-fill"
+  },
+  {
+    "id": "bi-1165",
+    "name": "hammer"
+  },
+  {
+    "id": "bi-1166",
+    "name": "hand-index"
+  },
+  {
+    "id": "bi-1167",
+    "name": "hand-index-fill"
+  },
+  {
+    "id": "bi-1168",
+    "name": "hand-index-thumb"
+  },
+  {
+    "id": "bi-1169",
+    "name": "hand-index-thumb-fill"
+  },
+  {
+    "id": "bi-1170",
+    "name": "hand-thumbs-down"
+  },
+  {
+    "id": "bi-1171",
+    "name": "hand-thumbs-down-fill"
+  },
+  {
+    "id": "bi-1172",
+    "name": "hand-thumbs-up"
+  },
+  {
+    "id": "bi-1173",
+    "name": "hand-thumbs-up-fill"
+  },
+  {
+    "id": "bi-1174",
+    "name": "handbag"
+  },
+  {
+    "id": "bi-1175",
+    "name": "handbag-fill"
+  },
+  {
+    "id": "bi-1176",
+    "name": "hash"
+  },
+  {
+    "id": "bi-1177",
+    "name": "hdd"
+  },
+  {
+    "id": "bi-1178",
+    "name": "hdd-fill"
+  },
+  {
+    "id": "bi-1179",
+    "name": "hdd-network"
+  },
+  {
+    "id": "bi-1180",
+    "name": "hdd-network-fill"
+  },
+  {
+    "id": "bi-1181",
+    "name": "hdd-rack"
+  },
+  {
+    "id": "bi-1182",
+    "name": "hdd-rack-fill"
+  },
+  {
+    "id": "bi-1183",
+    "name": "hdd-stack"
+  },
+  {
+    "id": "bi-1184",
+    "name": "hdd-stack-fill"
+  },
+  {
+    "id": "bi-1185",
+    "name": "hdmi"
+  },
+  {
+    "id": "bi-1186",
+    "name": "hdmi-fill"
+  },
+  {
+    "id": "bi-1187",
+    "name": "headphones"
+  },
+  {
+    "id": "bi-1188",
+    "name": "headset"
+  },
+  {
+    "id": "bi-1189",
+    "name": "headset-vr"
+  },
+  {
+    "id": "bi-1190",
+    "name": "heart"
+  },
+  {
+    "id": "bi-1191",
+    "name": "heart-arrow"
+  },
+  {
+    "id": "bi-1192",
+    "name": "heart-fill"
+  },
+  {
+    "id": "bi-1193",
+    "name": "heart-half"
+  },
+  {
+    "id": "bi-1194",
+    "name": "heart-pulse"
+  },
+  {
+    "id": "bi-1195",
+    "name": "heart-pulse-fill"
+  },
+  {
+    "id": "bi-1196",
+    "name": "heartbreak"
+  },
+  {
+    "id": "bi-1197",
+    "name": "heartbreak-fill"
+  },
+  {
+    "id": "bi-1198",
+    "name": "hearts"
+  },
+  {
+    "id": "bi-1199",
+    "name": "heptagon"
+  },
+  {
+    "id": "bi-1200",
+    "name": "heptagon-fill"
+  },
+  {
+    "id": "bi-1201",
+    "name": "heptagon-half"
+  },
+  {
+    "id": "bi-1202",
+    "name": "hexagon"
+  },
+  {
+    "id": "bi-1203",
+    "name": "hexagon-fill"
+  },
+  {
+    "id": "bi-1204",
+    "name": "hexagon-half"
+  },
+  {
+    "id": "bi-1205",
+    "name": "highlighter"
+  },
+  {
+    "id": "bi-1206",
+    "name": "highlights"
+  },
+  {
+    "id": "bi-1207",
+    "name": "hospital"
+  },
+  {
+    "id": "bi-1208",
+    "name": "hospital-fill"
+  },
+  {
+    "id": "bi-1209",
+    "name": "hourglass"
+  },
+  {
+    "id": "bi-1210",
+    "name": "hourglass-bottom"
+  },
+  {
+    "id": "bi-1211",
+    "name": "hourglass-split"
+  },
+  {
+    "id": "bi-1212",
+    "name": "hourglass-top"
+  },
+  {
+    "id": "bi-1213",
+    "name": "house"
+  },
+  {
+    "id": "bi-1214",
+    "name": "house-add"
+  },
+  {
+    "id": "bi-1215",
+    "name": "house-add-fill"
+  },
+  {
+    "id": "bi-1216",
+    "name": "house-check"
+  },
+  {
+    "id": "bi-1217",
+    "name": "house-check-fill"
+  },
+  {
+    "id": "bi-1218",
+    "name": "house-dash"
+  },
+  {
+    "id": "bi-1219",
+    "name": "house-dash-fill"
+  },
+  {
+    "id": "bi-1220",
+    "name": "house-door"
+  },
+  {
+    "id": "bi-1221",
+    "name": "house-door-fill"
+  },
+  {
+    "id": "bi-1222",
+    "name": "house-down"
+  },
+  {
+    "id": "bi-1223",
+    "name": "house-down-fill"
+  },
+  {
+    "id": "bi-1224",
+    "name": "house-exclamation"
+  },
+  {
+    "id": "bi-1225",
+    "name": "house-exclamation-fill"
+  },
+  {
+    "id": "bi-1226",
+    "name": "house-fill"
+  },
+  {
+    "id": "bi-1227",
+    "name": "house-gear"
+  },
+  {
+    "id": "bi-1228",
+    "name": "house-gear-fill"
+  },
+  {
+    "id": "bi-1229",
+    "name": "house-heart"
+  },
+  {
+    "id": "bi-1230",
+    "name": "house-heart-fill"
+  },
+  {
+    "id": "bi-1231",
+    "name": "house-lock"
+  },
+  {
+    "id": "bi-1232",
+    "name": "house-lock-fill"
+  },
+  {
+    "id": "bi-1233",
+    "name": "house-slash"
+  },
+  {
+    "id": "bi-1234",
+    "name": "house-slash-fill"
+  },
+  {
+    "id": "bi-1235",
+    "name": "house-up"
+  },
+  {
+    "id": "bi-1236",
+    "name": "house-up-fill"
+  },
+  {
+    "id": "bi-1237",
+    "name": "house-x"
+  },
+  {
+    "id": "bi-1238",
+    "name": "house-x-fill"
+  },
+  {
+    "id": "bi-1239",
+    "name": "houses"
+  },
+  {
+    "id": "bi-1240",
+    "name": "houses-fill"
+  },
+  {
+    "id": "bi-1241",
+    "name": "hr"
+  },
+  {
+    "id": "bi-1242",
+    "name": "hurricane"
+  },
+  {
+    "id": "bi-1243",
+    "name": "hypnotize"
+  },
+  {
+    "id": "bi-1244",
+    "name": "image"
+  },
+  {
+    "id": "bi-1245",
+    "name": "image-alt"
+  },
+  {
+    "id": "bi-1246",
+    "name": "image-fill"
+  },
+  {
+    "id": "bi-1247",
+    "name": "images"
+  },
+  {
+    "id": "bi-1248",
+    "name": "inbox"
+  },
+  {
+    "id": "bi-1249",
+    "name": "inbox-fill"
+  },
+  {
+    "id": "bi-1250",
+    "name": "inboxes-fill"
+  },
+  {
+    "id": "bi-1251",
+    "name": "inboxes"
+  },
+  {
+    "id": "bi-1252",
+    "name": "incognito"
+  },
+  {
+    "id": "bi-1253",
+    "name": "indent"
+  },
+  {
+    "id": "bi-1254",
+    "name": "infinity"
+  },
+  {
+    "id": "bi-1255",
+    "name": "info"
+  },
+  {
+    "id": "bi-1256",
+    "name": "info-circle"
+  },
+  {
+    "id": "bi-1257",
+    "name": "info-circle-fill"
+  },
+  {
+    "id": "bi-1258",
+    "name": "info-lg"
+  },
+  {
+    "id": "bi-1259",
+    "name": "info-square"
+  },
+  {
+    "id": "bi-1260",
+    "name": "info-square-fill"
+  },
+  {
+    "id": "bi-1261",
+    "name": "input-cursor"
+  },
+  {
+    "id": "bi-1262",
+    "name": "input-cursor-text"
+  },
+  {
+    "id": "bi-1263",
+    "name": "instagram"
+  },
+  {
+    "id": "bi-1264",
+    "name": "intersect"
+  },
+  {
+    "id": "bi-1265",
+    "name": "javascript"
+  },
+  {
+    "id": "bi-1266",
+    "name": "journal"
+  },
+  {
+    "id": "bi-1267",
+    "name": "journal-album"
+  },
+  {
+    "id": "bi-1268",
+    "name": "journal-arrow-down"
+  },
+  {
+    "id": "bi-1269",
+    "name": "journal-arrow-up"
+  },
+  {
+    "id": "bi-1270",
+    "name": "journal-bookmark"
+  },
+  {
+    "id": "bi-1271",
+    "name": "journal-bookmark-fill"
+  },
+  {
+    "id": "bi-1272",
+    "name": "journal-check"
+  },
+  {
+    "id": "bi-1273",
+    "name": "journal-code"
+  },
+  {
+    "id": "bi-1274",
+    "name": "journal-medical"
+  },
+  {
+    "id": "bi-1275",
+    "name": "journal-minus"
+  },
+  {
+    "id": "bi-1276",
+    "name": "journal-plus"
+  },
+  {
+    "id": "bi-1277",
+    "name": "journal-richtext"
+  },
+  {
+    "id": "bi-1278",
+    "name": "journal-text"
+  },
+  {
+    "id": "bi-1279",
+    "name": "journal-x"
+  },
+  {
+    "id": "bi-1280",
+    "name": "journals"
+  },
+  {
+    "id": "bi-1281",
+    "name": "joystick"
+  },
+  {
+    "id": "bi-1282",
+    "name": "justify"
+  },
+  {
+    "id": "bi-1283",
+    "name": "justify-left"
+  },
+  {
+    "id": "bi-1284",
+    "name": "justify-right"
+  },
+  {
+    "id": "bi-1285",
+    "name": "kanban"
+  },
+  {
+    "id": "bi-1286",
+    "name": "kanban-fill"
+  },
+  {
+    "id": "bi-1287",
+    "name": "key"
+  },
+  {
+    "id": "bi-1288",
+    "name": "key-fill"
+  },
+  {
+    "id": "bi-1289",
+    "name": "keyboard"
+  },
+  {
+    "id": "bi-1290",
+    "name": "keyboard-fill"
+  },
+  {
+    "id": "bi-1291",
+    "name": "ladder"
+  },
+  {
+    "id": "bi-1292",
+    "name": "lamp"
+  },
+  {
+    "id": "bi-1293",
+    "name": "lamp-fill"
+  },
+  {
+    "id": "bi-1294",
+    "name": "laptop"
+  },
+  {
+    "id": "bi-1295",
+    "name": "laptop-fill"
+  },
+  {
+    "id": "bi-1296",
+    "name": "layer-backward"
+  },
+  {
+    "id": "bi-1297",
+    "name": "layer-forward"
+  },
+  {
+    "id": "bi-1298",
+    "name": "layers"
+  },
+  {
+    "id": "bi-1299",
+    "name": "layers-fill"
+  },
+  {
+    "id": "bi-1300",
+    "name": "layers-half"
+  },
+  {
+    "id": "bi-1301",
+    "name": "layout-sidebar"
+  },
+  {
+    "id": "bi-1302",
+    "name": "layout-sidebar-inset-reverse"
+  },
+  {
+    "id": "bi-1303",
+    "name": "layout-sidebar-inset"
+  },
+  {
+    "id": "bi-1304",
+    "name": "layout-sidebar-reverse"
+  },
+  {
+    "id": "bi-1305",
+    "name": "layout-split"
+  },
+  {
+    "id": "bi-1306",
+    "name": "layout-text-sidebar"
+  },
+  {
+    "id": "bi-1307",
+    "name": "layout-text-sidebar-reverse"
+  },
+  {
+    "id": "bi-1308",
+    "name": "layout-text-window"
+  },
+  {
+    "id": "bi-1309",
+    "name": "layout-text-window-reverse"
+  },
+  {
+    "id": "bi-1310",
+    "name": "layout-three-columns"
+  },
+  {
+    "id": "bi-1311",
+    "name": "layout-wtf"
+  },
+  {
+    "id": "bi-1312",
+    "name": "leaf"
+  },
+  {
+    "id": "bi-1313",
+    "name": "leaf-fill"
+  },
+  {
+    "id": "bi-1314",
+    "name": "life-preserver"
+  },
+  {
+    "id": "bi-1315",
+    "name": "lightbulb"
+  },
+  {
+    "id": "bi-1316",
+    "name": "lightbulb-fill"
+  },
+  {
+    "id": "bi-1317",
+    "name": "lightbulb-off"
+  },
+  {
+    "id": "bi-1318",
+    "name": "lightbulb-off-fill"
+  },
+  {
+    "id": "bi-1319",
+    "name": "lightning"
+  },
+  {
+    "id": "bi-1320",
+    "name": "lightning-charge"
+  },
+  {
+    "id": "bi-1321",
+    "name": "lightning-charge-fill"
+  },
+  {
+    "id": "bi-1322",
+    "name": "lightning-fill"
+  },
+  {
+    "id": "bi-1323",
+    "name": "line"
+  },
+  {
+    "id": "bi-1324",
+    "name": "link"
+  },
+  {
+    "id": "bi-1325",
+    "name": "link-45deg"
+  },
+  {
+    "id": "bi-1326",
+    "name": "linkedin"
+  },
+  {
+    "id": "bi-1327",
+    "name": "list"
+  },
+  {
+    "id": "bi-1328",
+    "name": "list-check"
+  },
+  {
+    "id": "bi-1329",
+    "name": "list-columns"
+  },
+  {
+    "id": "bi-1330",
+    "name": "list-columns-reverse"
+  },
+  {
+    "id": "bi-1331",
+    "name": "list-nested"
+  },
+  {
+    "id": "bi-1332",
+    "name": "list-ol"
+  },
+  {
+    "id": "bi-1333",
+    "name": "list-stars"
+  },
+  {
+    "id": "bi-1334",
+    "name": "list-task"
+  },
+  {
+    "id": "bi-1335",
+    "name": "list-ul"
+  },
+  {
+    "id": "bi-1336",
+    "name": "lock"
+  },
+  {
+    "id": "bi-1337",
+    "name": "lock-fill"
+  },
+  {
+    "id": "bi-1338",
+    "name": "luggage"
+  },
+  {
+    "id": "bi-1339",
+    "name": "luggage-fill"
+  },
+  {
+    "id": "bi-1340",
+    "name": "lungs"
+  },
+  {
+    "id": "bi-1341",
+    "name": "lungs-fill"
+  },
+  {
+    "id": "bi-1342",
+    "name": "magic"
+  },
+  {
+    "id": "bi-1343",
+    "name": "magnet"
+  },
+  {
+    "id": "bi-1344",
+    "name": "magnet-fill"
+  },
+  {
+    "id": "bi-1345",
+    "name": "mailbox"
+  },
+  {
+    "id": "bi-1346",
+    "name": "mailbox-flag"
+  },
+  {
+    "id": "bi-1347",
+    "name": "mailbox2"
+  },
+  {
+    "id": "bi-1348",
+    "name": "mailbox2-flag"
+  },
+  {
+    "id": "bi-1349",
+    "name": "map"
+  },
+  {
+    "id": "bi-1350",
+    "name": "map-fill"
+  },
+  {
+    "id": "bi-1351",
+    "name": "markdown"
+  },
+  {
+    "id": "bi-1352",
+    "name": "markdown-fill"
+  },
+  {
+    "id": "bi-1353",
+    "name": "marker-tip"
+  },
+  {
+    "id": "bi-1354",
+    "name": "mask"
+  },
+  {
+    "id": "bi-1355",
+    "name": "mastodon"
+  },
+  {
+    "id": "bi-1356",
+    "name": "measuring-cup"
+  },
+  {
+    "id": "bi-1357",
+    "name": "measuring-cup-fill"
+  },
+  {
+    "id": "bi-1358",
+    "name": "medium"
+  },
+  {
+    "id": "bi-1359",
+    "name": "megaphone"
+  },
+  {
+    "id": "bi-1360",
+    "name": "megaphone-fill"
+  },
+  {
+    "id": "bi-1361",
+    "name": "memory"
+  },
+  {
+    "id": "bi-1362",
+    "name": "menu-app"
+  },
+  {
+    "id": "bi-1363",
+    "name": "menu-app-fill"
+  },
+  {
+    "id": "bi-1364",
+    "name": "menu-button"
+  },
+  {
+    "id": "bi-1365",
+    "name": "menu-button-fill"
+  },
+  {
+    "id": "bi-1366",
+    "name": "menu-button-wide"
+  },
+  {
+    "id": "bi-1367",
+    "name": "menu-button-wide-fill"
+  },
+  {
+    "id": "bi-1368",
+    "name": "menu-down"
+  },
+  {
+    "id": "bi-1369",
+    "name": "menu-up"
+  },
+  {
+    "id": "bi-1370",
+    "name": "messenger"
+  },
+  {
+    "id": "bi-1371",
+    "name": "meta"
+  },
+  {
+    "id": "bi-1372",
+    "name": "mic"
+  },
+  {
+    "id": "bi-1373",
+    "name": "mic-fill"
+  },
+  {
+    "id": "bi-1374",
+    "name": "mic-mute"
+  },
+  {
+    "id": "bi-1375",
+    "name": "mic-mute-fill"
+  },
+  {
+    "id": "bi-1376",
+    "name": "microsoft"
+  },
+  {
+    "id": "bi-1377",
+    "name": "microsoft-teams"
+  },
+  {
+    "id": "bi-1378",
+    "name": "minecart"
+  },
+  {
+    "id": "bi-1379",
+    "name": "minecart-loaded"
+  },
+  {
+    "id": "bi-1380",
+    "name": "modem"
+  },
+  {
+    "id": "bi-1381",
+    "name": "modem-fill"
+  },
+  {
+    "id": "bi-1382",
+    "name": "moisture"
+  },
+  {
+    "id": "bi-1383",
+    "name": "moon"
+  },
+  {
+    "id": "bi-1384",
+    "name": "moon-fill"
+  },
+  {
+    "id": "bi-1385",
+    "name": "moon-stars"
+  },
+  {
+    "id": "bi-1386",
+    "name": "moon-stars-fill"
+  },
+  {
+    "id": "bi-1387",
+    "name": "mortarboard"
+  },
+  {
+    "id": "bi-1388",
+    "name": "mortarboard-fill"
+  },
+  {
+    "id": "bi-1389",
+    "name": "motherboard"
+  },
+  {
+    "id": "bi-1390",
+    "name": "motherboard-fill"
+  },
+  {
+    "id": "bi-1391",
+    "name": "mouse"
+  },
+  {
+    "id": "bi-1392",
+    "name": "mouse-fill"
+  },
+  {
+    "id": "bi-1393",
+    "name": "mouse2"
+  },
+  {
+    "id": "bi-1394",
+    "name": "mouse2-fill"
+  },
+  {
+    "id": "bi-1395",
+    "name": "mouse3"
+  },
+  {
+    "id": "bi-1396",
+    "name": "mouse3-fill"
+  },
+  {
+    "id": "bi-1397",
+    "name": "music-note"
+  },
+  {
+    "id": "bi-1398",
+    "name": "music-note-beamed"
+  },
+  {
+    "id": "bi-1399",
+    "name": "music-note-list"
+  },
+  {
+    "id": "bi-1400",
+    "name": "music-player"
+  },
+  {
+    "id": "bi-1401",
+    "name": "music-player-fill"
+  },
+  {
+    "id": "bi-1402",
+    "name": "newspaper"
+  },
+  {
+    "id": "bi-1403",
+    "name": "nintendo-switch"
+  },
+  {
+    "id": "bi-1404",
+    "name": "node-minus"
+  },
+  {
+    "id": "bi-1405",
+    "name": "node-minus-fill"
+  },
+  {
+    "id": "bi-1406",
+    "name": "node-plus"
+  },
+  {
+    "id": "bi-1407",
+    "name": "node-plus-fill"
+  },
+  {
+    "id": "bi-1408",
+    "name": "noise-reduction"
+  },
+  {
+    "id": "bi-1409",
+    "name": "nut"
+  },
+  {
+    "id": "bi-1410",
+    "name": "nut-fill"
+  },
+  {
+    "id": "bi-1411",
+    "name": "nvidia"
+  },
+  {
+    "id": "bi-1412",
+    "name": "nvme"
+  },
+  {
+    "id": "bi-1413",
+    "name": "nvme-fill"
+  },
+  {
+    "id": "bi-1414",
+    "name": "octagon"
+  },
+  {
+    "id": "bi-1415",
+    "name": "octagon-fill"
+  },
+  {
+    "id": "bi-1416",
+    "name": "octagon-half"
+  },
+  {
+    "id": "bi-1417",
+    "name": "openai"
+  },
+  {
+    "id": "bi-1418",
+    "name": "opencollective"
+  },
+  {
+    "id": "bi-1419",
+    "name": "optical-audio"
+  },
+  {
+    "id": "bi-1420",
+    "name": "optical-audio-fill"
+  },
+  {
+    "id": "bi-1421",
+    "name": "option"
+  },
+  {
+    "id": "bi-1422",
+    "name": "outlet"
+  },
+  {
+    "id": "bi-1423",
+    "name": "p-circle"
+  },
+  {
+    "id": "bi-1424",
+    "name": "p-circle-fill"
+  },
+  {
+    "id": "bi-1425",
+    "name": "p-square"
+  },
+  {
+    "id": "bi-1426",
+    "name": "p-square-fill"
+  },
+  {
+    "id": "bi-1427",
+    "name": "paint-bucket"
+  },
+  {
+    "id": "bi-1428",
+    "name": "palette"
+  },
+  {
+    "id": "bi-1429",
+    "name": "palette-fill"
+  },
+  {
+    "id": "bi-1430",
+    "name": "palette2"
+  },
+  {
+    "id": "bi-1431",
+    "name": "paperclip"
+  },
+  {
+    "id": "bi-1432",
+    "name": "paragraph"
+  },
+  {
+    "id": "bi-1433",
+    "name": "pass"
+  },
+  {
+    "id": "bi-1434",
+    "name": "pass-fill"
+  },
+  {
+    "id": "bi-1435",
+    "name": "passport"
+  },
+  {
+    "id": "bi-1436",
+    "name": "passport-fill"
+  },
+  {
+    "id": "bi-1437",
+    "name": "patch-check"
+  },
+  {
+    "id": "bi-1438",
+    "name": "patch-check-fill"
+  },
+  {
+    "id": "bi-1439",
+    "name": "patch-exclamation"
+  },
+  {
+    "id": "bi-1440",
+    "name": "patch-exclamation-fill"
+  },
+  {
+    "id": "bi-1441",
+    "name": "patch-minus"
+  },
+  {
+    "id": "bi-1442",
+    "name": "patch-minus-fill"
+  },
+  {
+    "id": "bi-1443",
+    "name": "patch-plus"
+  },
+  {
+    "id": "bi-1444",
+    "name": "patch-plus-fill"
+  },
+  {
+    "id": "bi-1445",
+    "name": "patch-question"
+  },
+  {
+    "id": "bi-1446",
+    "name": "patch-question-fill"
+  },
+  {
+    "id": "bi-1447",
+    "name": "pause"
+  },
+  {
+    "id": "bi-1448",
+    "name": "pause-btn"
+  },
+  {
+    "id": "bi-1449",
+    "name": "pause-btn-fill"
+  },
+  {
+    "id": "bi-1450",
+    "name": "pause-circle"
+  },
+  {
+    "id": "bi-1451",
+    "name": "pause-circle-fill"
+  },
+  {
+    "id": "bi-1452",
+    "name": "pause-fill"
+  },
+  {
+    "id": "bi-1453",
+    "name": "paypal"
+  },
+  {
+    "id": "bi-1454",
+    "name": "pc"
+  },
+  {
+    "id": "bi-1455",
+    "name": "pc-display"
+  },
+  {
+    "id": "bi-1456",
+    "name": "pc-display-horizontal"
+  },
+  {
+    "id": "bi-1457",
+    "name": "pc-horizontal"
+  },
+  {
+    "id": "bi-1458",
+    "name": "pci-card"
+  },
+  {
+    "id": "bi-1459",
+    "name": "pci-card-network"
+  },
+  {
+    "id": "bi-1460",
+    "name": "pci-card-sound"
+  },
+  {
+    "id": "bi-1461",
+    "name": "peace"
+  },
+  {
+    "id": "bi-1462",
+    "name": "peace-fill"
+  },
+  {
+    "id": "bi-1463",
+    "name": "pen"
+  },
+  {
+    "id": "bi-1464",
+    "name": "pen-fill"
+  },
+  {
+    "id": "bi-1465",
+    "name": "pencil"
+  },
+  {
+    "id": "bi-1466",
+    "name": "pencil-fill"
+  },
+  {
+    "id": "bi-1467",
+    "name": "pencil-square"
+  },
+  {
+    "id": "bi-1468",
+    "name": "pentagon"
+  },
+  {
+    "id": "bi-1469",
+    "name": "pentagon-fill"
+  },
+  {
+    "id": "bi-1470",
+    "name": "pentagon-half"
+  },
+  {
+    "id": "bi-1471",
+    "name": "people"
+  },
+  {
+    "id": "bi-1472",
+    "name": "person-circle"
+  },
+  {
+    "id": "bi-1473",
+    "name": "people-fill"
+  },
+  {
+    "id": "bi-1474",
+    "name": "percent"
+  },
+  {
+    "id": "bi-1475",
+    "name": "perplexity"
+  },
+  {
+    "id": "bi-1476",
+    "name": "person"
+  },
+  {
+    "id": "bi-1477",
+    "name": "person-add"
+  },
+  {
+    "id": "bi-1478",
+    "name": "person-arms-up"
+  },
+  {
+    "id": "bi-1479",
+    "name": "person-badge"
+  },
+  {
+    "id": "bi-1480",
+    "name": "person-badge-fill"
+  },
+  {
+    "id": "bi-1481",
+    "name": "person-bounding-box"
+  },
+  {
+    "id": "bi-1482",
+    "name": "person-check"
+  },
+  {
+    "id": "bi-1483",
+    "name": "person-check-fill"
+  },
+  {
+    "id": "bi-1484",
+    "name": "person-dash"
+  },
+  {
+    "id": "bi-1485",
+    "name": "person-dash-fill"
+  },
+  {
+    "id": "bi-1486",
+    "name": "person-down"
+  },
+  {
+    "id": "bi-1487",
+    "name": "person-exclamation"
+  },
+  {
+    "id": "bi-1488",
+    "name": "person-fill"
+  },
+  {
+    "id": "bi-1489",
+    "name": "person-fill-add"
+  },
+  {
+    "id": "bi-1490",
+    "name": "person-fill-check"
+  },
+  {
+    "id": "bi-1491",
+    "name": "person-fill-dash"
+  },
+  {
+    "id": "bi-1492",
+    "name": "person-fill-down"
+  },
+  {
+    "id": "bi-1493",
+    "name": "person-fill-exclamation"
+  },
+  {
+    "id": "bi-1494",
+    "name": "person-fill-gear"
+  },
+  {
+    "id": "bi-1495",
+    "name": "person-fill-lock"
+  },
+  {
+    "id": "bi-1496",
+    "name": "person-fill-slash"
+  },
+  {
+    "id": "bi-1497",
+    "name": "person-fill-up"
+  },
+  {
+    "id": "bi-1498",
+    "name": "person-fill-x"
+  },
+  {
+    "id": "bi-1499",
+    "name": "person-gear"
+  },
+  {
+    "id": "bi-1500",
+    "name": "person-heart"
+  },
+  {
+    "id": "bi-1501",
+    "name": "person-hearts"
+  },
+  {
+    "id": "bi-1502",
+    "name": "person-lines-fill"
+  },
+  {
+    "id": "bi-1503",
+    "name": "person-lock"
+  },
+  {
+    "id": "bi-1504",
+    "name": "person-plus"
+  },
+  {
+    "id": "bi-1505",
+    "name": "person-plus-fill"
+  },
+  {
+    "id": "bi-1506",
+    "name": "person-raised-hand"
+  },
+  {
+    "id": "bi-1507",
+    "name": "person-rolodex"
+  },
+  {
+    "id": "bi-1508",
+    "name": "person-slash"
+  },
+  {
+    "id": "bi-1509",
+    "name": "person-square"
+  },
+  {
+    "id": "bi-1510",
+    "name": "person-standing"
+  },
+  {
+    "id": "bi-1511",
+    "name": "person-standing-dress"
+  },
+  {
+    "id": "bi-1512",
+    "name": "person-up"
+  },
+  {
+    "id": "bi-1513",
+    "name": "person-vcard"
+  },
+  {
+    "id": "bi-1514",
+    "name": "person-vcard-fill"
+  },
+  {
+    "id": "bi-1515",
+    "name": "person-video"
+  },
+  {
+    "id": "bi-1516",
+    "name": "person-video2"
+  },
+  {
+    "id": "bi-1517",
+    "name": "person-video3"
+  },
+  {
+    "id": "bi-1518",
+    "name": "person-walking"
+  },
+  {
+    "id": "bi-1519",
+    "name": "person-wheelchair"
+  },
+  {
+    "id": "bi-1520",
+    "name": "person-workspace"
+  },
+  {
+    "id": "bi-1521",
+    "name": "person-x"
+  },
+  {
+    "id": "bi-1522",
+    "name": "person-x-fill"
+  },
+  {
+    "id": "bi-1523",
+    "name": "phone"
+  },
+  {
+    "id": "bi-1524",
+    "name": "phone-fill"
+  },
+  {
+    "id": "bi-1525",
+    "name": "phone-flip"
+  },
+  {
+    "id": "bi-1526",
+    "name": "phone-landscape"
+  },
+  {
+    "id": "bi-1527",
+    "name": "phone-landscape-fill"
+  },
+  {
+    "id": "bi-1528",
+    "name": "phone-vibrate"
+  },
+  {
+    "id": "bi-1529",
+    "name": "phone-vibrate-fill"
+  },
+  {
+    "id": "bi-1530",
+    "name": "pie-chart"
+  },
+  {
+    "id": "bi-1531",
+    "name": "pie-chart-fill"
+  },
+  {
+    "id": "bi-1532",
+    "name": "piggy-bank"
+  },
+  {
+    "id": "bi-1533",
+    "name": "piggy-bank-fill"
+  },
+  {
+    "id": "bi-1534",
+    "name": "pin"
+  },
+  {
+    "id": "bi-1535",
+    "name": "pin-angle"
+  },
+  {
+    "id": "bi-1536",
+    "name": "pin-angle-fill"
+  },
+  {
+    "id": "bi-1537",
+    "name": "pin-fill"
+  },
+  {
+    "id": "bi-1538",
+    "name": "pin-map"
+  },
+  {
+    "id": "bi-1539",
+    "name": "pin-map-fill"
+  },
+  {
+    "id": "bi-1540",
+    "name": "pinterest"
+  },
+  {
+    "id": "bi-1541",
+    "name": "pip"
+  },
+  {
+    "id": "bi-1542",
+    "name": "pip-fill"
+  },
+  {
+    "id": "bi-1543",
+    "name": "play"
+  },
+  {
+    "id": "bi-1544",
+    "name": "play-btn"
+  },
+  {
+    "id": "bi-1545",
+    "name": "play-btn-fill"
+  },
+  {
+    "id": "bi-1546",
+    "name": "play-circle"
+  },
+  {
+    "id": "bi-1547",
+    "name": "play-circle-fill"
+  },
+  {
+    "id": "bi-1548",
+    "name": "play-fill"
+  },
+  {
+    "id": "bi-1549",
+    "name": "playstation"
+  },
+  {
+    "id": "bi-1550",
+    "name": "plug"
+  },
+  {
+    "id": "bi-1551",
+    "name": "plug-fill"
+  },
+  {
+    "id": "bi-1552",
+    "name": "plugin"
+  },
+  {
+    "id": "bi-1553",
+    "name": "plus"
+  },
+  {
+    "id": "bi-1554",
+    "name": "plus-circle"
+  },
+  {
+    "id": "bi-1555",
+    "name": "plus-circle-dotted"
+  },
+  {
+    "id": "bi-1556",
+    "name": "plus-circle-fill"
+  },
+  {
+    "id": "bi-1557",
+    "name": "plus-lg"
+  },
+  {
+    "id": "bi-1558",
+    "name": "plus-slash-minus"
+  },
+  {
+    "id": "bi-1559",
+    "name": "plus-square"
+  },
+  {
+    "id": "bi-1560",
+    "name": "plus-square-dotted"
+  },
+  {
+    "id": "bi-1561",
+    "name": "plus-square-fill"
+  },
+  {
+    "id": "bi-1562",
+    "name": "postage"
+  },
+  {
+    "id": "bi-1563",
+    "name": "postage-fill"
+  },
+  {
+    "id": "bi-1564",
+    "name": "postage-heart"
+  },
+  {
+    "id": "bi-1565",
+    "name": "postage-heart-fill"
+  },
+  {
+    "id": "bi-1566",
+    "name": "postcard"
+  },
+  {
+    "id": "bi-1567",
+    "name": "postcard-fill"
+  },
+  {
+    "id": "bi-1568",
+    "name": "postcard-heart"
+  },
+  {
+    "id": "bi-1569",
+    "name": "postcard-heart-fill"
+  },
+  {
+    "id": "bi-1570",
+    "name": "power"
+  },
+  {
+    "id": "bi-1571",
+    "name": "prescription"
+  },
+  {
+    "id": "bi-1572",
+    "name": "prescription2"
+  },
+  {
+    "id": "bi-1573",
+    "name": "printer"
+  },
+  {
+    "id": "bi-1574",
+    "name": "printer-fill"
+  },
+  {
+    "id": "bi-1575",
+    "name": "projector"
+  },
+  {
+    "id": "bi-1576",
+    "name": "projector-fill"
+  },
+  {
+    "id": "bi-1577",
+    "name": "puzzle"
+  },
+  {
+    "id": "bi-1578",
+    "name": "puzzle-fill"
+  },
+  {
+    "id": "bi-1579",
+    "name": "qr-code"
+  },
+  {
+    "id": "bi-1580",
+    "name": "qr-code-scan"
+  },
+  {
+    "id": "bi-1581",
+    "name": "question"
+  },
+  {
+    "id": "bi-1582",
+    "name": "question-circle"
+  },
+  {
+    "id": "bi-1583",
+    "name": "question-diamond"
+  },
+  {
+    "id": "bi-1584",
+    "name": "question-diamond-fill"
+  },
+  {
+    "id": "bi-1585",
+    "name": "question-circle-fill"
+  },
+  {
+    "id": "bi-1586",
+    "name": "question-lg"
+  },
+  {
+    "id": "bi-1587",
+    "name": "question-octagon"
+  },
+  {
+    "id": "bi-1588",
+    "name": "question-octagon-fill"
+  },
+  {
+    "id": "bi-1589",
+    "name": "question-square"
+  },
+  {
+    "id": "bi-1590",
+    "name": "question-square-fill"
+  },
+  {
+    "id": "bi-1591",
+    "name": "quora"
+  },
+  {
+    "id": "bi-1592",
+    "name": "quote"
+  },
+  {
+    "id": "bi-1593",
+    "name": "r-circle"
+  },
+  {
+    "id": "bi-1594",
+    "name": "r-circle-fill"
+  },
+  {
+    "id": "bi-1595",
+    "name": "r-square"
+  },
+  {
+    "id": "bi-1596",
+    "name": "r-square-fill"
+  },
+  {
+    "id": "bi-1597",
+    "name": "radar"
+  },
+  {
+    "id": "bi-1598",
+    "name": "radioactive"
+  },
+  {
+    "id": "bi-1599",
+    "name": "rainbow"
+  },
+  {
+    "id": "bi-1600",
+    "name": "receipt"
+  },
+  {
+    "id": "bi-1601",
+    "name": "receipt-cutoff"
+  },
+  {
+    "id": "bi-1602",
+    "name": "reception-0"
+  },
+  {
+    "id": "bi-1603",
+    "name": "reception-1"
+  },
+  {
+    "id": "bi-1604",
+    "name": "reception-2"
+  },
+  {
+    "id": "bi-1605",
+    "name": "reception-3"
+  },
+  {
+    "id": "bi-1606",
+    "name": "reception-4"
+  },
+  {
+    "id": "bi-1607",
+    "name": "record"
+  },
+  {
+    "id": "bi-1608",
+    "name": "record-btn"
+  },
+  {
+    "id": "bi-1609",
+    "name": "record-btn-fill"
+  },
+  {
+    "id": "bi-1610",
+    "name": "record-circle"
+  },
+  {
+    "id": "bi-1611",
+    "name": "record-circle-fill"
+  },
+  {
+    "id": "bi-1612",
+    "name": "record-fill"
+  },
+  {
+    "id": "bi-1613",
+    "name": "record2"
+  },
+  {
+    "id": "bi-1614",
+    "name": "record2-fill"
+  },
+  {
+    "id": "bi-1615",
+    "name": "recycle"
+  },
+  {
+    "id": "bi-1616",
+    "name": "reddit"
+  },
+  {
+    "id": "bi-1617",
+    "name": "regex"
+  },
+  {
+    "id": "bi-1618",
+    "name": "repeat"
+  },
+  {
+    "id": "bi-1619",
+    "name": "repeat-1"
+  },
+  {
+    "id": "bi-1620",
+    "name": "reply"
+  },
+  {
+    "id": "bi-1621",
+    "name": "reply-all"
+  },
+  {
+    "id": "bi-1622",
+    "name": "reply-all-fill"
+  },
+  {
+    "id": "bi-1623",
+    "name": "reply-fill"
+  },
+  {
+    "id": "bi-1624",
+    "name": "rewind"
+  },
+  {
+    "id": "bi-1625",
+    "name": "rewind-btn"
+  },
+  {
+    "id": "bi-1626",
+    "name": "rewind-btn-fill"
+  },
+  {
+    "id": "bi-1627",
+    "name": "rewind-circle"
+  },
+  {
+    "id": "bi-1628",
+    "name": "rewind-circle-fill"
+  },
+  {
+    "id": "bi-1629",
+    "name": "rewind-fill"
+  },
+  {
+    "id": "bi-1630",
+    "name": "robot"
+  },
+  {
+    "id": "bi-1631",
+    "name": "rocket"
+  },
+  {
+    "id": "bi-1632",
+    "name": "rocket-fill"
+  },
+  {
+    "id": "bi-1633",
+    "name": "rocket-takeoff"
+  },
+  {
+    "id": "bi-1634",
+    "name": "rocket-takeoff-fill"
+  },
+  {
+    "id": "bi-1635",
+    "name": "router"
+  },
+  {
+    "id": "bi-1636",
+    "name": "router-fill"
+  },
+  {
+    "id": "bi-1637",
+    "name": "rss"
+  },
+  {
+    "id": "bi-1638",
+    "name": "rss-fill"
+  },
+  {
+    "id": "bi-1639",
+    "name": "rulers"
+  },
+  {
+    "id": "bi-1640",
+    "name": "safe"
+  },
+  {
+    "id": "bi-1641",
+    "name": "safe-fill"
+  },
+  {
+    "id": "bi-1642",
+    "name": "safe2"
+  },
+  {
+    "id": "bi-1643",
+    "name": "safe2-fill"
+  },
+  {
+    "id": "bi-1644",
+    "name": "save"
+  },
+  {
+    "id": "bi-1645",
+    "name": "save-fill"
+  },
+  {
+    "id": "bi-1646",
+    "name": "save2"
+  },
+  {
+    "id": "bi-1647",
+    "name": "save2-fill"
+  },
+  {
+    "id": "bi-1648",
+    "name": "scissors"
+  },
+  {
+    "id": "bi-1649",
+    "name": "scooter"
+  },
+  {
+    "id": "bi-1650",
+    "name": "screwdriver"
+  },
+  {
+    "id": "bi-1651",
+    "name": "sd-card"
+  },
+  {
+    "id": "bi-1652",
+    "name": "sd-card-fill"
+  },
+  {
+    "id": "bi-1653",
+    "name": "search"
+  },
+  {
+    "id": "bi-1654",
+    "name": "search-heart"
+  },
+  {
+    "id": "bi-1655",
+    "name": "search-heart-fill"
+  },
+  {
+    "id": "bi-1656",
+    "name": "segmented-nav"
+  },
+  {
+    "id": "bi-1657",
+    "name": "send"
+  },
+  {
+    "id": "bi-1658",
+    "name": "send-arrow-down"
+  },
+  {
+    "id": "bi-1659",
+    "name": "send-arrow-down-fill"
+  },
+  {
+    "id": "bi-1660",
+    "name": "send-arrow-up"
+  },
+  {
+    "id": "bi-1661",
+    "name": "send-arrow-up-fill"
+  },
+  {
+    "id": "bi-1662",
+    "name": "send-check"
+  },
+  {
+    "id": "bi-1663",
+    "name": "send-check-fill"
+  },
+  {
+    "id": "bi-1664",
+    "name": "send-dash"
+  },
+  {
+    "id": "bi-1665",
+    "name": "send-dash-fill"
+  },
+  {
+    "id": "bi-1666",
+    "name": "send-exclamation"
+  },
+  {
+    "id": "bi-1667",
+    "name": "send-exclamation-fill"
+  },
+  {
+    "id": "bi-1668",
+    "name": "send-fill"
+  },
+  {
+    "id": "bi-1669",
+    "name": "send-plus"
+  },
+  {
+    "id": "bi-1670",
+    "name": "send-plus-fill"
+  },
+  {
+    "id": "bi-1671",
+    "name": "send-slash"
+  },
+  {
+    "id": "bi-1672",
+    "name": "send-slash-fill"
+  },
+  {
+    "id": "bi-1673",
+    "name": "send-x"
+  },
+  {
+    "id": "bi-1674",
+    "name": "send-x-fill"
+  },
+  {
+    "id": "bi-1675",
+    "name": "server"
+  },
+  {
+    "id": "bi-1676",
+    "name": "shadows"
+  },
+  {
+    "id": "bi-1677",
+    "name": "share"
+  },
+  {
+    "id": "bi-1678",
+    "name": "share-fill"
+  },
+  {
+    "id": "bi-1679",
+    "name": "shield"
+  },
+  {
+    "id": "bi-1680",
+    "name": "shield-check"
+  },
+  {
+    "id": "bi-1681",
+    "name": "shield-exclamation"
+  },
+  {
+    "id": "bi-1682",
+    "name": "shield-fill"
+  },
+  {
+    "id": "bi-1683",
+    "name": "shield-fill-check"
+  },
+  {
+    "id": "bi-1684",
+    "name": "shield-fill-exclamation"
+  },
+  {
+    "id": "bi-1685",
+    "name": "shield-fill-minus"
+  },
+  {
+    "id": "bi-1686",
+    "name": "shield-fill-plus"
+  },
+  {
+    "id": "bi-1687",
+    "name": "shield-fill-x"
+  },
+  {
+    "id": "bi-1688",
+    "name": "shield-lock"
+  },
+  {
+    "id": "bi-1689",
+    "name": "shield-lock-fill"
+  },
+  {
+    "id": "bi-1690",
+    "name": "shield-minus"
+  },
+  {
+    "id": "bi-1691",
+    "name": "shield-plus"
+  },
+  {
+    "id": "bi-1692",
+    "name": "shield-shaded"
+  },
+  {
+    "id": "bi-1693",
+    "name": "shield-slash"
+  },
+  {
+    "id": "bi-1694",
+    "name": "shield-slash-fill"
+  },
+  {
+    "id": "bi-1695",
+    "name": "shield-x"
+  },
+  {
+    "id": "bi-1696",
+    "name": "shift"
+  },
+  {
+    "id": "bi-1697",
+    "name": "shift-fill"
+  },
+  {
+    "id": "bi-1698",
+    "name": "shop"
+  },
+  {
+    "id": "bi-1699",
+    "name": "shop-window"
+  },
+  {
+    "id": "bi-1700",
+    "name": "shuffle"
+  },
+  {
+    "id": "bi-1701",
+    "name": "sign-dead-end"
+  },
+  {
+    "id": "bi-1702",
+    "name": "sign-dead-end-fill"
+  },
+  {
+    "id": "bi-1703",
+    "name": "sign-do-not-enter"
+  },
+  {
+    "id": "bi-1704",
+    "name": "sign-do-not-enter-fill"
+  },
+  {
+    "id": "bi-1705",
+    "name": "sign-intersection"
+  },
+  {
+    "id": "bi-1706",
+    "name": "sign-intersection-fill"
+  },
+  {
+    "id": "bi-1707",
+    "name": "sign-intersection-side"
+  },
+  {
+    "id": "bi-1708",
+    "name": "sign-intersection-side-fill"
+  },
+  {
+    "id": "bi-1709",
+    "name": "sign-intersection-t"
+  },
+  {
+    "id": "bi-1710",
+    "name": "sign-intersection-t-fill"
+  },
+  {
+    "id": "bi-1711",
+    "name": "sign-intersection-y"
+  },
+  {
+    "id": "bi-1712",
+    "name": "sign-intersection-y-fill"
+  },
+  {
+    "id": "bi-1713",
+    "name": "sign-merge-left"
+  },
+  {
+    "id": "bi-1714",
+    "name": "sign-merge-left-fill"
+  },
+  {
+    "id": "bi-1715",
+    "name": "sign-merge-right"
+  },
+  {
+    "id": "bi-1716",
+    "name": "sign-merge-right-fill"
+  },
+  {
+    "id": "bi-1717",
+    "name": "sign-no-left-turn"
+  },
+  {
+    "id": "bi-1718",
+    "name": "sign-no-left-turn-fill"
+  },
+  {
+    "id": "bi-1719",
+    "name": "sign-no-parking"
+  },
+  {
+    "id": "bi-1720",
+    "name": "sign-no-parking-fill"
+  },
+  {
+    "id": "bi-1721",
+    "name": "sign-no-right-turn"
+  },
+  {
+    "id": "bi-1722",
+    "name": "sign-no-right-turn-fill"
+  },
+  {
+    "id": "bi-1723",
+    "name": "sign-railroad"
+  },
+  {
+    "id": "bi-1724",
+    "name": "sign-railroad-fill"
+  },
+  {
+    "id": "bi-1725",
+    "name": "sign-stop"
+  },
+  {
+    "id": "bi-1726",
+    "name": "sign-stop-fill"
+  },
+  {
+    "id": "bi-1727",
+    "name": "sign-stop-lights"
+  },
+  {
+    "id": "bi-1728",
+    "name": "sign-stop-lights-fill"
+  },
+  {
+    "id": "bi-1729",
+    "name": "sign-turn-left"
+  },
+  {
+    "id": "bi-1730",
+    "name": "sign-turn-left-fill"
+  },
+  {
+    "id": "bi-1731",
+    "name": "sign-turn-right"
+  },
+  {
+    "id": "bi-1732",
+    "name": "sign-turn-right-fill"
+  },
+  {
+    "id": "bi-1733",
+    "name": "sign-turn-slight-left"
+  },
+  {
+    "id": "bi-1734",
+    "name": "sign-turn-slight-left-fill"
+  },
+  {
+    "id": "bi-1735",
+    "name": "sign-turn-slight-right"
+  },
+  {
+    "id": "bi-1736",
+    "name": "sign-turn-slight-right-fill"
+  },
+  {
+    "id": "bi-1737",
+    "name": "sign-yield"
+  },
+  {
+    "id": "bi-1738",
+    "name": "sign-yield-fill"
+  },
+  {
+    "id": "bi-1739",
+    "name": "signal"
+  },
+  {
+    "id": "bi-1740",
+    "name": "signpost"
+  },
+  {
+    "id": "bi-1741",
+    "name": "signpost-2"
+  },
+  {
+    "id": "bi-1742",
+    "name": "signpost-2-fill"
+  },
+  {
+    "id": "bi-1743",
+    "name": "signpost-fill"
+  },
+  {
+    "id": "bi-1744",
+    "name": "signpost-split"
+  },
+  {
+    "id": "bi-1745",
+    "name": "signpost-split-fill"
+  },
+  {
+    "id": "bi-1746",
+    "name": "sim"
+  },
+  {
+    "id": "bi-1747",
+    "name": "sim-fill"
+  },
+  {
+    "id": "bi-1748",
+    "name": "sim-slash"
+  },
+  {
+    "id": "bi-1749",
+    "name": "sim-slash-fill"
+  },
+  {
+    "id": "bi-1750",
+    "name": "sina-weibo"
+  },
+  {
+    "id": "bi-1751",
+    "name": "skip-backward"
+  },
+  {
+    "id": "bi-1752",
+    "name": "skip-backward-btn"
+  },
+  {
+    "id": "bi-1753",
+    "name": "skip-backward-btn-fill"
+  },
+  {
+    "id": "bi-1754",
+    "name": "skip-backward-circle"
+  },
+  {
+    "id": "bi-1755",
+    "name": "skip-backward-circle-fill"
+  },
+  {
+    "id": "bi-1756",
+    "name": "skip-backward-fill"
+  },
+  {
+    "id": "bi-1757",
+    "name": "skip-end"
+  },
+  {
+    "id": "bi-1758",
+    "name": "skip-end-btn"
+  },
+  {
+    "id": "bi-1759",
+    "name": "skip-end-btn-fill"
+  },
+  {
+    "id": "bi-1760",
+    "name": "skip-end-circle"
+  },
+  {
+    "id": "bi-1761",
+    "name": "skip-end-circle-fill"
+  },
+  {
+    "id": "bi-1762",
+    "name": "skip-end-fill"
+  },
+  {
+    "id": "bi-1763",
+    "name": "skip-forward"
+  },
+  {
+    "id": "bi-1764",
+    "name": "skip-forward-btn"
+  },
+  {
+    "id": "bi-1765",
+    "name": "skip-forward-btn-fill"
+  },
+  {
+    "id": "bi-1766",
+    "name": "skip-forward-circle"
+  },
+  {
+    "id": "bi-1767",
+    "name": "skip-forward-circle-fill"
+  },
+  {
+    "id": "bi-1768",
+    "name": "skip-forward-fill"
+  },
+  {
+    "id": "bi-1769",
+    "name": "skip-start"
+  },
+  {
+    "id": "bi-1770",
+    "name": "skip-start-btn"
+  },
+  {
+    "id": "bi-1771",
+    "name": "skip-start-btn-fill"
+  },
+  {
+    "id": "bi-1772",
+    "name": "skip-start-circle"
+  },
+  {
+    "id": "bi-1773",
+    "name": "skip-start-circle-fill"
+  },
+  {
+    "id": "bi-1774",
+    "name": "skip-start-fill"
+  },
+  {
+    "id": "bi-1775",
+    "name": "skype"
+  },
+  {
+    "id": "bi-1776",
+    "name": "slack"
+  },
+  {
+    "id": "bi-1777",
+    "name": "slash"
+  },
+  {
+    "id": "bi-1778",
+    "name": "slash-circle-fill"
+  },
+  {
+    "id": "bi-1779",
+    "name": "slash-lg"
+  },
+  {
+    "id": "bi-1780",
+    "name": "slash-square"
+  },
+  {
+    "id": "bi-1781",
+    "name": "slash-square-fill"
+  },
+  {
+    "id": "bi-1782",
+    "name": "sliders"
+  },
+  {
+    "id": "bi-1783",
+    "name": "sliders2"
+  },
+  {
+    "id": "bi-1784",
+    "name": "sliders2-vertical"
+  },
+  {
+    "id": "bi-1785",
+    "name": "smartwatch"
+  },
+  {
+    "id": "bi-1786",
+    "name": "snapchat"
+  },
+  {
+    "id": "bi-1787",
+    "name": "snow"
+  },
+  {
+    "id": "bi-1788",
+    "name": "snow2"
+  },
+  {
+    "id": "bi-1789",
+    "name": "snow3"
+  },
+  {
+    "id": "bi-1790",
+    "name": "sort-alpha-down"
+  },
+  {
+    "id": "bi-1791",
+    "name": "sort-alpha-down-alt"
+  },
+  {
+    "id": "bi-1792",
+    "name": "sort-alpha-up"
+  },
+  {
+    "id": "bi-1793",
+    "name": "sort-alpha-up-alt"
+  },
+  {
+    "id": "bi-1794",
+    "name": "sort-down"
+  },
+  {
+    "id": "bi-1795",
+    "name": "sort-down-alt"
+  },
+  {
+    "id": "bi-1796",
+    "name": "sort-numeric-down"
+  },
+  {
+    "id": "bi-1797",
+    "name": "sort-numeric-down-alt"
+  },
+  {
+    "id": "bi-1798",
+    "name": "sort-numeric-up"
+  },
+  {
+    "id": "bi-1799",
+    "name": "sort-numeric-up-alt"
+  },
+  {
+    "id": "bi-1800",
+    "name": "sort-up"
+  },
+  {
+    "id": "bi-1801",
+    "name": "sort-up-alt"
+  },
+  {
+    "id": "bi-1802",
+    "name": "soundwave"
+  },
+  {
+    "id": "bi-1803",
+    "name": "sourceforge"
+  },
+  {
+    "id": "bi-1804",
+    "name": "speaker"
+  },
+  {
+    "id": "bi-1805",
+    "name": "speaker-fill"
+  },
+  {
+    "id": "bi-1806",
+    "name": "speedometer"
+  },
+  {
+    "id": "bi-1807",
+    "name": "speedometer2"
+  },
+  {
+    "id": "bi-1808",
+    "name": "spellcheck"
+  },
+  {
+    "id": "bi-1809",
+    "name": "spotify"
+  },
+  {
+    "id": "bi-1810",
+    "name": "square"
+  },
+  {
+    "id": "bi-1811",
+    "name": "square-fill"
+  },
+  {
+    "id": "bi-1812",
+    "name": "square-half"
+  },
+  {
+    "id": "bi-1813",
+    "name": "stack"
+  },
+  {
+    "id": "bi-1814",
+    "name": "stack-overflow"
+  },
+  {
+    "id": "bi-1815",
+    "name": "star"
+  },
+  {
+    "id": "bi-1816",
+    "name": "star-fill"
+  },
+  {
+    "id": "bi-1817",
+    "name": "star-half"
+  },
+  {
+    "id": "bi-1818",
+    "name": "stars"
+  },
+  {
+    "id": "bi-1819",
+    "name": "steam"
+  },
+  {
+    "id": "bi-1820",
+    "name": "stickies"
+  },
+  {
+    "id": "bi-1821",
+    "name": "stickies-fill"
+  },
+  {
+    "id": "bi-1822",
+    "name": "sticky"
+  },
+  {
+    "id": "bi-1823",
+    "name": "sticky-fill"
+  },
+  {
+    "id": "bi-1824",
+    "name": "stop"
+  },
+  {
+    "id": "bi-1825",
+    "name": "stop-btn"
+  },
+  {
+    "id": "bi-1826",
+    "name": "stop-btn-fill"
+  },
+  {
+    "id": "bi-1827",
+    "name": "stop-circle"
+  },
+  {
+    "id": "bi-1828",
+    "name": "stop-circle-fill"
+  },
+  {
+    "id": "bi-1829",
+    "name": "stop-fill"
+  },
+  {
+    "id": "bi-1830",
+    "name": "stoplights"
+  },
+  {
+    "id": "bi-1831",
+    "name": "stoplights-fill"
+  },
+  {
+    "id": "bi-1832",
+    "name": "stopwatch"
+  },
+  {
+    "id": "bi-1833",
+    "name": "stopwatch-fill"
+  },
+  {
+    "id": "bi-1834",
+    "name": "strava"
+  },
+  {
+    "id": "bi-1835",
+    "name": "stripe"
+  },
+  {
+    "id": "bi-1836",
+    "name": "subscript"
+  },
+  {
+    "id": "bi-1837",
+    "name": "substack"
+  },
+  {
+    "id": "bi-1838",
+    "name": "subtract"
+  },
+  {
+    "id": "bi-1839",
+    "name": "suit-club"
+  },
+  {
+    "id": "bi-1840",
+    "name": "suit-club-fill"
+  },
+  {
+    "id": "bi-1841",
+    "name": "suit-diamond"
+  },
+  {
+    "id": "bi-1842",
+    "name": "suit-diamond-fill"
+  },
+  {
+    "id": "bi-1843",
+    "name": "suit-heart"
+  },
+  {
+    "id": "bi-1844",
+    "name": "suit-heart-fill"
+  },
+  {
+    "id": "bi-1845",
+    "name": "suit-spade"
+  },
+  {
+    "id": "bi-1846",
+    "name": "suit-spade-fill"
+  },
+  {
+    "id": "bi-1847",
+    "name": "suitcase"
+  },
+  {
+    "id": "bi-1848",
+    "name": "suitcase-fill"
+  },
+  {
+    "id": "bi-1849",
+    "name": "suitcase-lg"
+  },
+  {
+    "id": "bi-1850",
+    "name": "suitcase-lg-fill"
+  },
+  {
+    "id": "bi-1851",
+    "name": "suitcase2"
+  },
+  {
+    "id": "bi-1852",
+    "name": "suitcase2-fill"
+  },
+  {
+    "id": "bi-1853",
+    "name": "sun"
+  },
+  {
+    "id": "bi-1854",
+    "name": "sun-fill"
+  },
+  {
+    "id": "bi-1855",
+    "name": "sunglasses"
+  },
+  {
+    "id": "bi-1856",
+    "name": "sunrise"
+  },
+  {
+    "id": "bi-1857",
+    "name": "sunrise-fill"
+  },
+  {
+    "id": "bi-1858",
+    "name": "sunset"
+  },
+  {
+    "id": "bi-1859",
+    "name": "sunset-fill"
+  },
+  {
+    "id": "bi-1860",
+    "name": "superscript"
+  },
+  {
+    "id": "bi-1861",
+    "name": "symmetry-horizontal"
+  },
+  {
+    "id": "bi-1862",
+    "name": "symmetry-vertical"
+  },
+  {
+    "id": "bi-1863",
+    "name": "table"
+  },
+  {
+    "id": "bi-1864",
+    "name": "tablet"
+  },
+  {
+    "id": "bi-1865",
+    "name": "tablet-fill"
+  },
+  {
+    "id": "bi-1866",
+    "name": "tablet-landscape"
+  },
+  {
+    "id": "bi-1867",
+    "name": "tablet-landscape-fill"
+  },
+  {
+    "id": "bi-1868",
+    "name": "tag"
+  },
+  {
+    "id": "bi-1869",
+    "name": "tag-fill"
+  },
+  {
+    "id": "bi-1870",
+    "name": "tags"
+  },
+  {
+    "id": "bi-1871",
+    "name": "tags-fill"
+  },
+  {
+    "id": "bi-1872",
+    "name": "taxi-front"
+  },
+  {
+    "id": "bi-1873",
+    "name": "taxi-front-fill"
+  },
+  {
+    "id": "bi-1874",
+    "name": "telegram"
+  },
+  {
+    "id": "bi-1875",
+    "name": "telephone"
+  },
+  {
+    "id": "bi-1876",
+    "name": "telephone-fill"
+  },
+  {
+    "id": "bi-1877",
+    "name": "telephone-forward"
+  },
+  {
+    "id": "bi-1878",
+    "name": "telephone-forward-fill"
+  },
+  {
+    "id": "bi-1879",
+    "name": "telephone-inbound"
+  },
+  {
+    "id": "bi-1880",
+    "name": "telephone-inbound-fill"
+  },
+  {
+    "id": "bi-1881",
+    "name": "telephone-minus"
+  },
+  {
+    "id": "bi-1882",
+    "name": "telephone-minus-fill"
+  },
+  {
+    "id": "bi-1883",
+    "name": "telephone-outbound"
+  },
+  {
+    "id": "bi-1884",
+    "name": "telephone-outbound-fill"
+  },
+  {
+    "id": "bi-1885",
+    "name": "telephone-plus"
+  },
+  {
+    "id": "bi-1886",
+    "name": "telephone-plus-fill"
+  },
+  {
+    "id": "bi-1887",
+    "name": "telephone-x"
+  },
+  {
+    "id": "bi-1888",
+    "name": "telephone-x-fill"
+  },
+  {
+    "id": "bi-1889",
+    "name": "tencent-qq"
+  },
+  {
+    "id": "bi-1890",
+    "name": "terminal"
+  },
+  {
+    "id": "bi-1891",
+    "name": "terminal-dash"
+  },
+  {
+    "id": "bi-1892",
+    "name": "terminal-fill"
+  },
+  {
+    "id": "bi-1893",
+    "name": "terminal-plus"
+  },
+  {
+    "id": "bi-1894",
+    "name": "terminal-split"
+  },
+  {
+    "id": "bi-1895",
+    "name": "terminal-x"
+  },
+  {
+    "id": "bi-1896",
+    "name": "text-center"
+  },
+  {
+    "id": "bi-1897",
+    "name": "text-indent-left"
+  },
+  {
+    "id": "bi-1898",
+    "name": "text-indent-right"
+  },
+  {
+    "id": "bi-1899",
+    "name": "text-left"
+  },
+  {
+    "id": "bi-1900",
+    "name": "text-paragraph"
+  },
+  {
+    "id": "bi-1901",
+    "name": "text-right"
+  },
+  {
+    "id": "bi-1902",
+    "name": "text-wrap"
+  },
+  {
+    "id": "bi-1903",
+    "name": "textarea"
+  },
+  {
+    "id": "bi-1904",
+    "name": "textarea-resize"
+  },
+  {
+    "id": "bi-1905",
+    "name": "textarea-t"
+  },
+  {
+    "id": "bi-1906",
+    "name": "thermometer"
+  },
+  {
+    "id": "bi-1907",
+    "name": "thermometer-half"
+  },
+  {
+    "id": "bi-1908",
+    "name": "thermometer-high"
+  },
+  {
+    "id": "bi-1909",
+    "name": "thermometer-low"
+  },
+  {
+    "id": "bi-1910",
+    "name": "thermometer-snow"
+  },
+  {
+    "id": "bi-1911",
+    "name": "thermometer-sun"
+  },
+  {
+    "id": "bi-1912",
+    "name": "threads"
+  },
+  {
+    "id": "bi-1913",
+    "name": "threads-fill"
+  },
+  {
+    "id": "bi-1914",
+    "name": "three-dots"
+  },
+  {
+    "id": "bi-1915",
+    "name": "three-dots-vertical"
+  },
+  {
+    "id": "bi-1916",
+    "name": "thunderbolt"
+  },
+  {
+    "id": "bi-1917",
+    "name": "thunderbolt-fill"
+  },
+  {
+    "id": "bi-1918",
+    "name": "ticket"
+  },
+  {
+    "id": "bi-1919",
+    "name": "ticket-detailed"
+  },
+  {
+    "id": "bi-1920",
+    "name": "ticket-detailed-fill"
+  },
+  {
+    "id": "bi-1921",
+    "name": "ticket-fill"
+  },
+  {
+    "id": "bi-1922",
+    "name": "ticket-perforated"
+  },
+  {
+    "id": "bi-1923",
+    "name": "ticket-perforated-fill"
+  },
+  {
+    "id": "bi-1924",
+    "name": "tiktok"
+  },
+  {
+    "id": "bi-1925",
+    "name": "toggle-off"
+  },
+  {
+    "id": "bi-1926",
+    "name": "toggle-on"
+  },
+  {
+    "id": "bi-1927",
+    "name": "toggle2-off"
+  },
+  {
+    "id": "bi-1928",
+    "name": "toggle2-on"
+  },
+  {
+    "id": "bi-1929",
+    "name": "toggles"
+  },
+  {
+    "id": "bi-1930",
+    "name": "toggles2"
+  },
+  {
+    "id": "bi-1931",
+    "name": "tools"
+  },
+  {
+    "id": "bi-1932",
+    "name": "tornado"
+  },
+  {
+    "id": "bi-1933",
+    "name": "train-freight-front"
+  },
+  {
+    "id": "bi-1934",
+    "name": "train-freight-front-fill"
+  },
+  {
+    "id": "bi-1935",
+    "name": "train-front"
+  },
+  {
+    "id": "bi-1936",
+    "name": "train-front-fill"
+  },
+  {
+    "id": "bi-1937",
+    "name": "train-lightrail-front"
+  },
+  {
+    "id": "bi-1938",
+    "name": "train-lightrail-front-fill"
+  },
+  {
+    "id": "bi-1939",
+    "name": "translate"
+  },
+  {
+    "id": "bi-1940",
+    "name": "transparency"
+  },
+  {
+    "id": "bi-1941",
+    "name": "trash"
+  },
+  {
+    "id": "bi-1942",
+    "name": "trash-fill"
+  },
+  {
+    "id": "bi-1943",
+    "name": "trash2"
+  },
+  {
+    "id": "bi-1944",
+    "name": "trash2-fill"
+  },
+  {
+    "id": "bi-1945",
+    "name": "trash3"
+  },
+  {
+    "id": "bi-1946",
+    "name": "trash3-fill"
+  },
+  {
+    "id": "bi-1947",
+    "name": "tree"
+  },
+  {
+    "id": "bi-1948",
+    "name": "tree-fill"
+  },
+  {
+    "id": "bi-1949",
+    "name": "trello"
+  },
+  {
+    "id": "bi-1950",
+    "name": "triangle"
+  },
+  {
+    "id": "bi-1951",
+    "name": "triangle-fill"
+  },
+  {
+    "id": "bi-1952",
+    "name": "triangle-half"
+  },
+  {
+    "id": "bi-1953",
+    "name": "trophy"
+  },
+  {
+    "id": "bi-1954",
+    "name": "trophy-fill"
+  },
+  {
+    "id": "bi-1955",
+    "name": "tropical-storm"
+  },
+  {
+    "id": "bi-1956",
+    "name": "truck"
+  },
+  {
+    "id": "bi-1957",
+    "name": "truck-flatbed"
+  },
+  {
+    "id": "bi-1958",
+    "name": "truck-front"
+  },
+  {
+    "id": "bi-1959",
+    "name": "truck-front-fill"
+  },
+  {
+    "id": "bi-1960",
+    "name": "tsunami"
+  },
+  {
+    "id": "bi-1961",
+    "name": "tux"
+  },
+  {
+    "id": "bi-1962",
+    "name": "tv"
+  },
+  {
+    "id": "bi-1963",
+    "name": "tv-fill"
+  },
+  {
+    "id": "bi-1964",
+    "name": "twitch"
+  },
+  {
+    "id": "bi-1965",
+    "name": "twitter"
+  },
+  {
+    "id": "bi-1966",
+    "name": "twitter-x"
+  },
+  {
+    "id": "bi-1967",
+    "name": "type"
+  },
+  {
+    "id": "bi-1968",
+    "name": "type-bold"
+  },
+  {
+    "id": "bi-1969",
+    "name": "type-h1"
+  },
+  {
+    "id": "bi-1970",
+    "name": "type-h2"
+  },
+  {
+    "id": "bi-1971",
+    "name": "type-h3"
+  },
+  {
+    "id": "bi-1972",
+    "name": "type-h4"
+  },
+  {
+    "id": "bi-1973",
+    "name": "type-h5"
+  },
+  {
+    "id": "bi-1974",
+    "name": "type-h6"
+  },
+  {
+    "id": "bi-1975",
+    "name": "type-italic"
+  },
+  {
+    "id": "bi-1976",
+    "name": "type-strikethrough"
+  },
+  {
+    "id": "bi-1977",
+    "name": "type-underline"
+  },
+  {
+    "id": "bi-1978",
+    "name": "typescript"
+  },
+  {
+    "id": "bi-1979",
+    "name": "ubuntu"
+  },
+  {
+    "id": "bi-1980",
+    "name": "ui-checks"
+  },
+  {
+    "id": "bi-1981",
+    "name": "ui-checks-grid"
+  },
+  {
+    "id": "bi-1982",
+    "name": "ui-radios"
+  },
+  {
+    "id": "bi-1983",
+    "name": "ui-radios-grid"
+  },
+  {
+    "id": "bi-1984",
+    "name": "umbrella"
+  },
+  {
+    "id": "bi-1985",
+    "name": "umbrella-fill"
+  },
+  {
+    "id": "bi-1986",
+    "name": "unindent"
+  },
+  {
+    "id": "bi-1987",
+    "name": "union"
+  },
+  {
+    "id": "bi-1988",
+    "name": "unity"
+  },
+  {
+    "id": "bi-1989",
+    "name": "universal-access"
+  },
+  {
+    "id": "bi-1990",
+    "name": "universal-access-circle"
+  },
+  {
+    "id": "bi-1991",
+    "name": "unlock"
+  },
+  {
+    "id": "bi-1992",
+    "name": "unlock-fill"
+  },
+  {
+    "id": "bi-1993",
+    "name": "unlock2"
+  },
+  {
+    "id": "bi-1994",
+    "name": "unlock2-fill"
+  },
+  {
+    "id": "bi-1995",
+    "name": "upc"
+  },
+  {
+    "id": "bi-1996",
+    "name": "upc-scan"
+  },
+  {
+    "id": "bi-1997",
+    "name": "upload"
+  },
+  {
+    "id": "bi-1998",
+    "name": "usb"
+  },
+  {
+    "id": "bi-1999",
+    "name": "usb-c"
+  },
+  {
+    "id": "bi-2000",
+    "name": "usb-c-fill"
+  },
+  {
+    "id": "bi-2001",
+    "name": "usb-drive"
+  },
+  {
+    "id": "bi-2002",
+    "name": "usb-drive-fill"
+  },
+  {
+    "id": "bi-2003",
+    "name": "usb-fill"
+  },
+  {
+    "id": "bi-2004",
+    "name": "usb-micro"
+  },
+  {
+    "id": "bi-2005",
+    "name": "usb-micro-fill"
+  },
+  {
+    "id": "bi-2006",
+    "name": "usb-mini"
+  },
+  {
+    "id": "bi-2007",
+    "name": "usb-mini-fill"
+  },
+  {
+    "id": "bi-2008",
+    "name": "usb-plug"
+  },
+  {
+    "id": "bi-2009",
+    "name": "usb-plug-fill"
+  },
+  {
+    "id": "bi-2010",
+    "name": "usb-symbol"
+  },
+  {
+    "id": "bi-2011",
+    "name": "valentine"
+  },
+  {
+    "id": "bi-2012",
+    "name": "valentine2"
+  },
+  {
+    "id": "bi-2013",
+    "name": "vector-pen"
+  },
+  {
+    "id": "bi-2014",
+    "name": "view-list"
+  },
+  {
+    "id": "bi-2015",
+    "name": "view-stacked"
+  },
+  {
+    "id": "bi-2016",
+    "name": "vignette"
+  },
+  {
+    "id": "bi-2017",
+    "name": "vimeo"
+  },
+  {
+    "id": "bi-2018",
+    "name": "vinyl"
+  },
+  {
+    "id": "bi-2019",
+    "name": "vinyl-fill"
+  },
+  {
+    "id": "bi-2020",
+    "name": "virus"
+  },
+  {
+    "id": "bi-2021",
+    "name": "virus2"
+  },
+  {
+    "id": "bi-2022",
+    "name": "voicemail"
+  },
+  {
+    "id": "bi-2023",
+    "name": "volume-down"
+  },
+  {
+    "id": "bi-2024",
+    "name": "volume-down-fill"
+  },
+  {
+    "id": "bi-2025",
+    "name": "volume-mute"
+  },
+  {
+    "id": "bi-2026",
+    "name": "volume-mute-fill"
+  },
+  {
+    "id": "bi-2027",
+    "name": "volume-off"
+  },
+  {
+    "id": "bi-2028",
+    "name": "volume-off-fill"
+  },
+  {
+    "id": "bi-2029",
+    "name": "volume-up"
+  },
+  {
+    "id": "bi-2030",
+    "name": "volume-up-fill"
+  },
+  {
+    "id": "bi-2031",
+    "name": "vr"
+  },
+  {
+    "id": "bi-2032",
+    "name": "wallet"
+  },
+  {
+    "id": "bi-2033",
+    "name": "wallet-fill"
+  },
+  {
+    "id": "bi-2034",
+    "name": "wallet2"
+  },
+  {
+    "id": "bi-2035",
+    "name": "watch"
+  },
+  {
+    "id": "bi-2036",
+    "name": "water"
+  },
+  {
+    "id": "bi-2037",
+    "name": "webcam"
+  },
+  {
+    "id": "bi-2038",
+    "name": "webcam-fill"
+  },
+  {
+    "id": "bi-2039",
+    "name": "wechat"
+  },
+  {
+    "id": "bi-2040",
+    "name": "whatsapp"
+  },
+  {
+    "id": "bi-2041",
+    "name": "wifi"
+  },
+  {
+    "id": "bi-2042",
+    "name": "wifi-1"
+  },
+  {
+    "id": "bi-2043",
+    "name": "wifi-2"
+  },
+  {
+    "id": "bi-2044",
+    "name": "wifi-off"
+  },
+  {
+    "id": "bi-2045",
+    "name": "wikipedia"
+  },
+  {
+    "id": "bi-2046",
+    "name": "wind"
+  },
+  {
+    "id": "bi-2047",
+    "name": "window"
+  },
+  {
+    "id": "bi-2048",
+    "name": "window-dash"
+  },
+  {
+    "id": "bi-2049",
+    "name": "window-desktop"
+  },
+  {
+    "id": "bi-2050",
+    "name": "window-dock"
+  },
+  {
+    "id": "bi-2051",
+    "name": "window-fullscreen"
+  },
+  {
+    "id": "bi-2052",
+    "name": "window-plus"
+  },
+  {
+    "id": "bi-2053",
+    "name": "window-sidebar"
+  },
+  {
+    "id": "bi-2054",
+    "name": "window-split"
+  },
+  {
+    "id": "bi-2055",
+    "name": "window-stack"
+  },
+  {
+    "id": "bi-2056",
+    "name": "window-x"
+  },
+  {
+    "id": "bi-2057",
+    "name": "windows"
+  },
+  {
+    "id": "bi-2058",
+    "name": "wordpress"
+  },
+  {
+    "id": "bi-2059",
+    "name": "wrench"
+  },
+  {
+    "id": "bi-2060",
+    "name": "wrench-adjustable"
+  },
+  {
+    "id": "bi-2061",
+    "name": "wrench-adjustable-circle"
+  },
+  {
+    "id": "bi-2062",
+    "name": "wrench-adjustable-circle-fill"
+  },
+  {
+    "id": "bi-2063",
+    "name": "x"
+  },
+  {
+    "id": "bi-2064",
+    "name": "x-circle"
+  },
+  {
+    "id": "bi-2065",
+    "name": "x-circle-fill"
+  },
+  {
+    "id": "bi-2066",
+    "name": "x-diamond"
+  },
+  {
+    "id": "bi-2067",
+    "name": "x-diamond-fill"
+  },
+  {
+    "id": "bi-2068",
+    "name": "x-lg"
+  },
+  {
+    "id": "bi-2069",
+    "name": "x-octagon"
+  },
+  {
+    "id": "bi-2070",
+    "name": "x-octagon-fill"
+  },
+  {
+    "id": "bi-2071",
+    "name": "x-square"
+  },
+  {
+    "id": "bi-2072",
+    "name": "x-square-fill"
+  },
+  {
+    "id": "bi-2073",
+    "name": "xbox"
+  },
+  {
+    "id": "bi-2074",
+    "name": "yelp"
+  },
+  {
+    "id": "bi-2075",
+    "name": "yin-yang"
+  },
+  {
+    "id": "bi-2076",
+    "name": "youtube"
+  },
+  {
+    "id": "bi-2077",
+    "name": "zoom-in"
+  },
+  {
+    "id": "bi-2078",
+    "name": "zoom-out"
+  }
+]
